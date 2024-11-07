@@ -34,7 +34,7 @@ It's pretty simple but the output is pretty and readable.
 
 These are straight Python scripts. Alias those bad boys and you have some instant power in your shell. For those wanting to replicate my setup, I clone the git repos for these scripts into a `~/.scripts` folder and then add aliases to my `.bashrc`. I will include the alias for each script as well.
 
-## Net-arch generator [^net-gen]
+## [Net-arch generator][net-gen]
 
 ![netarch output](netarch.webp)
 
@@ -44,7 +44,7 @@ Your netrunner is out to get you. We all know it. That bastard will find net-arc
 alias netarch='python ~/.scripts/Cyberpunk-Red-Net-Arch-generator/net_arch_gen_2.0.py'
 ```
 
-## Gunpath [^gunpath]
+## [Gunpath][gunpath]
 
 ![gunpath output](gunpath.webp)
 
@@ -58,6 +58,7 @@ alias gunpath='python ~/.scripts/CyberpunkRedGunGenerator/CyberpunkRedGunGenerat
 [^script-wiz]: https://scriptwizards.itch.io/issue-1
 [^d20-py]: https://pypi.org/project/d20/
 [^glow]: https://github.com/charmbracelet/glow
-[^net-gen]: https://github.com/benjo121ben/Cyberpunk-Red-Net-Arch-generator
-[^gunpath]: https://github.com/LukeOssevoort/CyberpunkRedGunGenerator
 [^togs]: https://rtalsoriangames.com/wp-content/uploads/2024/06/RTG-CPR-DLC-TogglesTemplev1.1.pdf
+
+[net-gen]: https://github.com/benjo121ben/Cyberpunk-Red-Net-Arch-generator
+[gunpath]: https://github.com/LukeOssevoort/CyberpunkRedGunGenerator
