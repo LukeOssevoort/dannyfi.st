@@ -1,7 +1,7 @@
 ---
 title: Scripts I use to run Cyberpunk Red
 categories: [Cyberpunk Red, Tools]
-tags: bash, python, github, gm-ing
+tags: bash python github gm-ing
 media_subpath: /assets/img/cpr-scripts/
 ---
 
