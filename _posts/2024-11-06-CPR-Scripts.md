@@ -9,7 +9,7 @@ Running Cyberpunk Red can be a pain in the ass. Don't get me wrong they did a lo
 
 This post is going to serve as a rolling list of what scripts I am using to run my online games, so I will come back and add stuff as I find it. Now without further ado, *the scripts*.
 
-# Bash
+## Bash
 
 So far the only bash script I use for running games is a dice rolling function from the excellent (if still unreleased) zine **Script Wizards**[^script-wiz]. Now technically this is a Python script that pipes the output into **glow**[^glow] to make it pretty. So in addition to **glow** you need the Python package **d20**[^d20-py].
 
@@ -30,11 +30,11 @@ It's pretty simple but the output is pretty and readable.
 
 ![Dice script output](dice_script.webp)
 
-# Python
+## Python
 
 These are straight Python scripts. Alias those bad boys and you have some instant power in your shell. For those wanting to replicate my setup, I clone the git repos for these scripts into a `~/.scripts` folder and then add aliases to my `.bashrc`. I will include the alias for each script as well.
 
-## Net-arch generator
+### Net-arch generator
 
 > [Github Repo][net-gen]
 {: .prompt-info }
@@ -47,7 +47,7 @@ Your netrunner is out to get you. We all know it. That bastard will find net-arc
 alias netarch='python ~/.scripts/Cyberpunk-Red-Net-Arch-generator/net_arch_gen_2.0.py'
 ```
 
-## Gunpath
+### Gunpath
 
 > [Github Repo][gunpath]
 {: .prompt-info }
