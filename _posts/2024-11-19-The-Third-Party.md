@@ -7,7 +7,7 @@ tags: gm-ing, roleplay, prep
 I am always looking for ways to enable GMs to be lazier. Too long the lie of GM prep having to be long and laborious has ruined many a new GM. So I collect advice and ideas to integrate into my process. One of the greatest bits of GM advice I found was in the Cyberpunk Red Corebook, the beat chart (which is also in a free pdf of R Talsorian's website [^beatchart]). It enables you to slap together a set of plot points for a session from basic building blocks. The only problem is you still need to come up with a story idea to start assembling those blocks and make a fun session, and to that I have a solution.
 
 > This advice is kind of Cyberpunk specific but can probably be applied to other settings. Just use your head.
-{.prompt-warning}
+{: .prompt-warning }
 
 ## The idea
 
@@ -26,7 +26,7 @@ On it's most basic level this introduces a set of new combat encounters to stret
 ## An Example
 
 > This story is from a real session I ran with only an hour or so of prep the night before
-{.prompt-info}
+{: .prompt-info }
 
 The crew  (a Medtech, a Nomad and a Netrunner) were looking to get an invite to 3-Piece's Night Market. In order to foster this relationship 3-Piece hired them to handle an exchange with a Nomad clan for stock for his Night Market. This exchange took them to a small settlement in an abandoned railway yard.
 
