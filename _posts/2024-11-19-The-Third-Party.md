@@ -1,7 +1,7 @@
 ---
 title: The Third Party
 categories: [Cyberpunk Red, Advice]
-tags: gm-ing, roleplay, prep
+tags: gm-ing roleplay prep
 ---
 
 I am always looking for ways to enable GMs to be lazier. Too long the lie of GM prep having to be long and laborious has ruined many a new GM. So I collect advice and ideas to integrate into my process. One of the greatest bits of GM advice I found was in the Cyberpunk Red Corebook, the beat chart (which is also in a free pdf of R Talsorian's website [^beatchart]). It enables you to slap together a set of plot points for a session from basic building blocks. The only problem is you still need to come up with a story idea to start assembling those blocks and make a fun session, and to that I have a solution.
