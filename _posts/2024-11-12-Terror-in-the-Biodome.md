@@ -10,7 +10,7 @@ This Screamsheet is a bit of an experiment, a test run at doing dungeon crawls i
 
 > [Download here][dl] or check out the source files [here][src]. It's all hosted on Github.
 
-Also due to R Talsorian's content policy[^rt-policy] I can't put this on [itch.io](https://itch.io). At some point I plan to restat this for a Cairn hack or maybe Cy-Borg to get around this but no promises.
+Also due to R Talsorian's content policy[^rt-policy] I can't put this on [itch.io](https://itch.io). I want to hack this into a CY_Borg module, because that game rocks. There will be differences due to the Simulated Environment Testing area. It will get its own post.
 
 [^rt-policy]: <https://rtalsoriangames.com/homebrew-content-policy/>
     > Homebrew content may not be distributed via methods that exist primarily as a retail market such as DriveThruRPG or itch.io.
