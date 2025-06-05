@@ -42,8 +42,6 @@ As for running the damn thing, the lack of a rigid combat structure was a proble
 
 Where this game does spark joy is the other parts of adventuring, travel and exploration. The use of *Blades in the Dark* progress tracks meant that during scenes that would typically be narration in a 5e game, there was opportunity for gameplay hijinks. Suddenly descending a cliff turned from a flat skill check to the highlight of the one-shot. Two of my players decided to shield surf *Breath of the Wild style*, while the other half used a series of ropes and pulleys, and everyone managed to be involved and engaged. It's the perfect solution to the traversal problem for the 5e crowd - as opposed to something more old school like a hex crawl.
 
-Again overall I would be happy if this replaced modern D&D. It seems more built for the character drama that those players want, especially given how well the system handles those non-combat parts of adventuring. While I wouldn't run it given the choice (again, I'm a little OSR freak[^myprefs]), if someone asked me to run it I would. It seems a pleasant enough marriage of the D&D model of rolling against a DC[^dc] and the *degrees of success* of story games, with plenty of tools for new players to get their heads around TTRPGs.
-
 ![More Art](DanilLuzin.jpg)
 _The art is pretty cool too. Nothing groundbreaking, but not everything needs to be._
 
