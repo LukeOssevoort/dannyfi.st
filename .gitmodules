@@ -1,6 +1,3 @@
 [submodule "assets/lib"]
 	path = assets/lib
 	url = https://github.com/cotes2020/chirpy-static-assets.git
-[submodule "assets/downloads/TerrorInTheBiodome"]
-	path = assets/downloads/TerrorInTheBiodome
-	url = https://github.com/LukeOssevoort/CPR-Terror-in-the-Biodome.git
