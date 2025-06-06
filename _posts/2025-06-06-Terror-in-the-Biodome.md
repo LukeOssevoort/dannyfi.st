@@ -16,4 +16,4 @@ Also due to R Talsorian's content policy[^rt-policy] I can't put this on [itch.i
     As you can see very explicit and without an exception for making it free.
 
 [dl]: https://raw.githubusercontent.com/LukeOssevoort/CPR-Terror-in-the-Biodome/refs/heads/main/TerrorInTheBiodome.pdf
-[source]: https://github.com/LukeOssevoort/CPR-Terror-in-the-Biodome
+[src]: https://github.com/LukeOssevoort/CPR-Terror-in-the-Biodome
