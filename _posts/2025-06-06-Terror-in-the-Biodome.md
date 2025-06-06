@@ -15,5 +15,5 @@ Also due to R Talsorian's content policy[^rt-policy] I can't put this on [itch.i
     > Homebrew content may not be distributed via methods that exist primarily as a retail market such as DriveThruRPG or itch.io.
     As you can see very explicit and without an exception for making it free.
 
-[dl]: assets/downloads/TerrorInTheBiodome/TerrorInTheBiodome.pdf
+[dl]: /assets/downloads/TerrorInTheBiodome/TerrorInTheBiodome.pdf
 [source]: https://github.com/LukeOssevoort/CPR-Terror-in-the-Biodome
