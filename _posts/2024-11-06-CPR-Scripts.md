@@ -28,7 +28,7 @@ print(str(roll('$1')))"
 
 It's pretty simple but the output is pretty and readable.
 
-![Dice script output](dice_script.webp)
+![Dice script output](dice_script.gif)
 
 ## Python
 
@@ -39,7 +39,7 @@ These are straight Python scripts. Alias those bad boys and you have some instan
 > [Github Repo][net-gen]
 {: .prompt-info }
 
-![netarch output](netarch.webp)
+![netarch output](netarch.gif)
 
 Your netrunner is out to get you. We all know it. That bastard will find net-archs you never planned for and expect to sit there and hack the damn thing. This script lets you blast out a whole arch in moments to deal with their plug-head addiction.
 
@@ -52,7 +52,7 @@ alias netarch='python ~/.scripts/Cyberpunk-Red-Net-Arch-generator/net_arch_gen_2
 > [Github Repo][gunpath]
 {: .prompt-info }
 
-![gunpath output](gunpath.webp)
+![gunpath output](gunpath.gif)
 
 This one is of my design. The Toggle's Temple[^togs] DLC introduced the gunpath for adding gun flavour. It's cool but a lot of work, and this removes that hassle and adds in its place flags to theoretically save time.
 
