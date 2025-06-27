@@ -29,6 +29,7 @@ The principle here is clear; give the players Faustian bargains. Offer them easy
 _You'd thing a guy called Faust would know better than to take a Faustian bargain. Cringe._
 
 > A little PS here at the end: None of this would have been possible without the Cyberpunk Edgerunners Mission Kit's fantastic updates to the humanity rules. If you are a CP:R GM do yourself a favour and pick up CEMK. It turns a system that was originally just a way to restrict the amount of cyberware a player can have into a constant pressure on the whole crew.
+{: .prompt-tip }
 
 [^cemk]: [Buy it on DTRPG](https://www.drivethrurpg.com/en/product/482282/cyberpunk-edgerunners-mission-kit). The module is a sequel to the anime and a source kit for playing in 2077. Very cool.
 [^humanity]: Humanity is a measure of a characters empathy and is reduced by installing cyberware. As they reach 0, PCs go *cyberpsycho* and the GM gets to take their sheet and start murdering.
