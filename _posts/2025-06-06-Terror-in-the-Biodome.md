@@ -8,7 +8,7 @@ tags: github gm-ing
 This Screamsheet is a bit of an experiment, a test run at doing dungeon crawls in Cyberpunk Red. I feel it worked when I ran it but of course this nicely formatted version has gone through some changes. The biggest change was writing in the OSR style where each room is a short description with bolded words exploded out into dot points. It feels like the most succinct way to get across this kind of info and honestly should be used in CPR's official material. If you manage to run this please leave a comment and let me know how you found it.
 
 <a href="https://raw.githubusercontent.com/LukeOssevoort/CPR-Terror-in-the-Biodome/refs/heads/main/TerrorInTheBiodome.pdf">
-    <button type="button" class="btn btn-link">Download</button>
+    <button type="button">Download</button>
 </a>
 
 >  It's all hosted on Github so you can check out the source files [here][src].
