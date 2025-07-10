@@ -30,14 +30,14 @@ This is their net-café, the Nethole
 ![Net Cafe Map](https://i.pinimg.com/1200x/c1/b2/d3/c1b2d39c570aaf7a56413ade70752cbe.jpg)
 _[Braindance VR Lounge](https://pin.it/1hb9rrc9o) by [Fragmaps](https://patreon.com/fragmaps)_
 
-![Fixer Dakota Smith, as shown in Cyberpunk 2077](https://static.wikia.nocookie.net/cyberpunk/images/0/07/Char_Profile_Dakota.png){: .w-50 .right}
+![Fixer Dakota Smith, as shown in Cyberpunk 2077](https://static.wikia.nocookie.net/cyberpunk/images/0/07/Char_Profile_Dakota.png){: .w-25 .right}
 Robin has been in contact with [Dakota Smith](https://cyberpunk.fandom.com/wiki/Dakota_Smith), a fellow fixer in the Badlands, and she has a job for the crew. They're to head to Honest Stan's Self-Storage on the outskirts of Night City, to meet a *cowboy*. So the staff of the Nethole pile into their beat-up formerly-white van with café regular Oswald at the wheel, while arguing about what they can do about cleaning the van. When they arrive at the storage place, there are 2 cars there already; a black and tan 4WD, and a [REO Meatwagon](https://cyberpunk.fandom.com/wiki/REO_Meatwagon) ambulance. They also hear gunfire.
 
 ## Contact!!
 
 When they get to where they are supposed to meet their contact, they see him under fire by a crew of 5 Meatwagon paramedics. The crew intervenes and Oswald blows one of them away with his heavy pistol. Nebulous got a taste of quick hacking and cut one of the gonks with her monowire whip. After the rest of the crew chipped away at the others, Zomb13 knocked 2 of them out with his stun pistol. As the last one fled, Miku turned him into a fan ending the fight.
 
-![Falco behind the wheel](https://static.wikia.nocookie.net/cyberpunk/images/6/6d/Falco_Infobox_CPEDGE.jpg){: .w-50 .left}
+![Falco behind the wheel](https://static.wikia.nocookie.net/cyberpunk/images/6/6d/Falco_Infobox_CPEDGE.jpg){: .w-25 .left}
 Their contact turns out to be [Falco](https://cyberpunk.fandom.com/wiki/Falco) (not the bird from Star Fox). His storage locker has been robbed by a teen with wild blue and red hair, and an old motorcycle. The thief managed to get away with 3 gun and a hi-vis REO Meatwagon jacket defaced with a stylised "ER". These items aren't inherently rare, but hold sentimental value to Falco. Nethole Inc agrees to a price of 500eb per person per item recovered with a flat 1000eb bonus if they get all 4. 
 
 Looting the bodies of the both unconscious and dead gonks yields 4 heavy pistols with power rebuilds, keys to the ambulance, and a datashard. The crew takes the pistols and tries to take the ambulance, but Falco insists on keeping it to repay Dakota. The datashard contains access to the GPS data of the jacket. While it was worn by its original owner, David Martinez, the tracker was broken but now it seems to be sending intermittent pings. The Meatwagon guys must have been here to collect the biomonitor data from the jacket (all REO Meatwagon jackets have a biomonitor so that the Corp can sell the data as an additional revenue stream).
