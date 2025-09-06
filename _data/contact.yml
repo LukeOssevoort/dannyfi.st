@@ -11,6 +11,10 @@
   icon: 'fa-brands fa-itch-io'
   url: 'https://dannyfist.itch.io/'
 
+- type: startplaying
+  icon: 'fa-solid fa-hat-wizard'
+  url: 'https://startplaying.games/gm/lukeo'
+
 # - type: email
 #   icon: "fas fa-envelope"
 #   noblank: true # open link in current tab
