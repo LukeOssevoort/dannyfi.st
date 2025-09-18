@@ -6,6 +6,8 @@ tags: gm-ing cpr-cemk
 
 I want to be more intentional with my note-taking and recall of the sessions I run. Now is the best time to start this as my biggest table is starting a new campaign, so I am now keeping a campaign diary. Expect these weekly if I can manage. If they're not weekly and you are enjoying this, hunt me down and demand answers.
 
+> Nevermind! This game is now 7+ sessions in. I might do something like this again with solo play, but I can't do these diaries weekly.
+
 Game 🎲
 : Cyberpunk Red
 
