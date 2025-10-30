@@ -8,8 +8,6 @@ image:
     path: cover.jpg
 ---
 
-and vice versa
-
 With that title out of the way, let's rush through the basic bitch stuff. *Red Dwarf*, the long running BBC sci-fi comedy, is my ultimate comfort watch. Throughout it's 10+ seasons, it often strays into horror. Hell, without jokes the entire concept of the show is pretty horrific - one man stranded millions of years in the future, everyone he ever knew dead; with only a neurotic hologram, a narcissistic cat mutant, an OCD android, and a senile AI for company.
 
 Then there's *Mothership*; a sci-fi horror TTRPG that often strays into comedy (as all TTRPGs do). The *Red Dwarf* crew even comfortably slot into the classes of *Mothership*. Lister and Rimmer are obviously teamsters, Kryten is an android, Kochanski is a scientist and Holly is the GM exposition character. The only one that doesn't fit is the Cat, but lets just assume Rob Grant and Doug Naylor let him use a homebrew class. It fits like a glove. 
