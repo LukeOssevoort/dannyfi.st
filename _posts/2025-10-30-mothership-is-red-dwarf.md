@@ -17,7 +17,9 @@ My point here is we can definitely mine the episodes of *Red Dwarf* for some gre
 ## Polymorph
 
 > **Kryten:** It was an attempt to create the ultimate warrior. A mutant that could change shape to suit its terrain and deceive its enemies.
+> 
 > **Cat:** So what went wrong?
+> 
 > **Kryten:** It's insane!
 
 This episode is a great twist on *The Thing*. A shapeshifter finds its way onto Red Dwarf, and it is there to suck up the crews emotions. By the third act everyone is running around missing a major emotion. Lister loses his fear, becoming cartoonishly aggressive. Kryten loses his guilt, allowing him to be rude and flippant. The Cat loses his pride, becoming a complete slob. Rimmer loses his anger, becoming a total dork. Imagine a trifold adventure with a special wound table, where taking a wound from the Polymorph also takes away an emotion, at least until the beast is dead. Nothing revolutionary, but a fun twist on a classic.
@@ -31,14 +33,23 @@ The small rouge one's reverse course has finally let the mail pod catch up. In t
 ## The Inquisitor
 
 > **Kryten**: Sir! Sir, you don't have to be a great philanthropist, or a missionary worker, you simply have to seize the gift of life!
+> 
 > **Rimmer**: Oh, God.
+> 
 > **Kryten**: Make a contribution.
+> 
 > **Rimmer**: Oh, God.
+> 
 > **Kryten**: No matter how small.
+> 
 > **Rimmer**: Oh, God.
+> 
 > **Kryten**: You simply have to have lead a life that wasn't totally egocentric, vain and self-serving.
+> 
 > **Rimmer**: You're doing this on purpose, aren't you?
+> 
 > **Kryten**: I'm just trying to make you feel better, sir.
+> 
 > **Rimmer**: Well, shut up then!
 
 An android from the end of time travels back to judge all beings to see if they have lived a worthy life, and if they haven't he replaces them with an alternate version of themselves that was denied the gift of life. This episode would make a great campaign starter, as the Inquisitor judges people by assuming their identity, judging them by their own standards. Now you can get players to think about their characters on a deeper level, by asking them if they have lived a worthy life by their own standards. Then after they have to fight a time travelling murder-bot. Win-win.
