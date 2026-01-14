@@ -4,6 +4,8 @@ description: How do we write a module to be both a reference document and good p
 categories: [General, Opinion]
 tags: osr writing modules zedecksiew benmilton dcc
 media_subpath: /assets/img/doing-both/
+image:
+    path: DCC-Annual-Endsheet-Back-150.jpg
 ---
 
 Recently Ben Milton (Mr. Questing Beast) started a little discourse around the writing style of DCC adventures. The whole thing has gotten stuck in my craw for a few reasons. Firstly there is a surface level agreement that DCC adventures a somewhat tricky to parse. They are intentionally "old school"; cut from the TSR clothe. When preparing DCC adventures I would find myself carefully reading everything, rather than skimming the way I do anything written in the OSE style.
@@ -19,6 +21,8 @@ Jonas-Merlin then suggested [Why not both?][wnb] In actual technical documents y
 I've been trying to class up my reading by *slowly* working my way through Blood Meridian by Cormac McCarthy. What really strikes me about the book the language; every word is fired like a bullet from a gun. Nothing wasted on long exposition, flowery prose or even clarifying who is talking. Yet it all paints a highly evocative portrait of violence and cruelty. Terseness harnessed to a razors edge.
 
 Obviously this is both highly readable and referenceable. If the same style was applied to module writing it would be able to do both extremes of the spectrum. In fact, I had heard praise for [Zedeck Siew's Lorn Song of the Bachelor][lsb] (LSotB from hereon for brevity) for it's punchy writing. Maybe this is already a solved issue.
+
+![The cover of Lorn Song of the Bachelor depicting a partial disembowelled crocodile on its back](lsb_cover.webp)
 
 As a 2nd generation Australian of Dutch descent I have at least a passing familiarity with South East Asian culture[^1], so I was already very interested in LSotB. For one it is a chance to dive a little deeper into the culture and, as the DTRPG page puts it, a morally complex exploration of colonialism piques my interest. It's a subject many tend to either gloss over, or just portray the colonists as moustache twirling villains and be done with it. LSotB delivers on its promises and is definitely making it to my table at some point, but let's dig into how it functions as a text.
 
