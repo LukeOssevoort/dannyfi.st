@@ -22,4 +22,4 @@ For those alergic to printing and folding things I have included the dungeon bel
 [^threads]: Seriously if I see another thread instead of a blog or forum post again I will have to go back in time and start blowing up data centers.
 [^typing]: Other than typing up the text and the map obviously. I'm not so much of a monster as to expose you to that much of my hand writing.
 
-[mr-squiggle]: Find video of Mr Squiggle theme
+[mr-squiggle]: https://youtu.be/VdNOdu1f0fw?si=3FrVGjXfihcWwGq4
