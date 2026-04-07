@@ -18,9 +18,9 @@ As far as dungeon writing goes it is also an excuse to make something without pr
 
 For those alergic to printing and folding things I have included the dungeon below. Though I would question why you hate fun so much.
 
-## Paper Cult Dungeon
+## Paper Cult, Wasp Vault
 
-![Cropped cover depicting a cultist looming in a dark doorway and wielding a fountain pen]()
+![Cropped cover depicting a cultist looming in a dark doorway and wielding a fountain pen](title.png)
 
 ### Encounter Table
 
@@ -30,7 +30,7 @@ For those alergic to printing and folding things I have included the dungeon bel
 
 ### Map
 
-![point to point map of the dungeon]()
+![point to point map of the dungeon](map.png)
 
 ### 1
 
@@ -43,19 +43,21 @@ Behind a heavy wooden door inset into the thick paper walls, a room lit by ether
 - Only lets members of the cult in.
 - Fire destroys his armor
 
-![A faceless figure clad in paper armour]()
+![A faceless figure clad in paper armour](doorguardian.png)
 
 ### 2
 
+![Fountain pen](pre2pen.png)
+
 Walls are inscribed with text of all languages extolling the virtue of paper. The floor in the center of the room is damp and pulpy. Walking across the center of the room causes the floor to give way. DEX save or land on the pen nibs in the pit trap below (d6).
 
-![Pit trap filled with pen nibs]()
+![Pit trap filled with pen nibs](pittrap.png)
 
 ### 3
 
 Shelves packed with scrolls cover the walls. The scrolls, upon inspection are rare (200gp), with a 1 in 6 chance the scroll taken is a spell scroll. In the center of the room is an illuminated manuscript of the cult's holy text (1000gp).
 
-![The Paper cult holy book]()
+![The Paper cult holy book](holybook.png)
 
 ### 4
 
@@ -68,11 +70,13 @@ Bunk room, where the cult uses the wasp-comb for sleep. Looking into the combs r
 - Smash the head or you’ll be seeing ‘em again in minutes
 - **Crit**: Infected and deprived will be zombie in 1d4 days if not treated
 
-![Undead wasp (the insect not a white anglo-saxon protestant)]()
+![Undead wasp (the insect not a white anglo-saxon protestant)](undeadwasp.png)
 
 ### 5
 
 Copper distilling equipment for creating magic ink from the rare midnight mushroom. Ink can be used to make spell books and scrolls. Currently there is enough ink to make one spell book. The equipment itself is *bulky*.
+
+![It goes magic mushroom to ink to magic scroll](magicink.png)
 
 ### 6
 
