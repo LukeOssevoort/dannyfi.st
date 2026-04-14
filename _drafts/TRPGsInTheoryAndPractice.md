@@ -12,6 +12,10 @@ media_subpath: /assets/img/MiT&P-P1/
 
 ## Introduction
 
+JoJo's Bizarre Adventure is my favourite manga. It's unique combination of off-the-wall stories and shockingly classy art sensibilities make it a damn treat for a comics fan. So when a book was released that promised to be mangaka[^managaka] Hirohiko Araki giving away his, as he puts it, royal road of mangha I had to buy it. I didn't care that I had not the ability to make a manga, given my lack of a trained art skill, I got it as soon as possible. This, like his manga, is a rare treat; a chance to step into the mind of a genius.
+
+In the intro Araki muses that his advice could apply to almost any endevour, particularly creative endevours. So why not apply this to TRPG[^tabletop] modules? Surely there is at least some crossover even if TRPGs have to account for player agency in their story telling. Well let's find out together.
+
 - Hirohiko Araki = favourite mangaka
 - Gave all his manga secrets
 - Should apply to all story telling
@@ -47,4 +51,7 @@ _Art by [Skullboy][skullboy]_
 
 ## Conclusion
 
-[skullboy]: 
+[^mangaka]: the proper term for a manga author, can refer to artist or writers though typically it is both.
+[^tabletop]: Tabletop is one word so this is more correct than TTRPG and fits all the other types of RPG like CRPG and JRPG
+
+[skullboy]: https://betterlegends.com/
