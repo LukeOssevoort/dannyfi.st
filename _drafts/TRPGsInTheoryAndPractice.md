@@ -6,8 +6,6 @@ tags: osr writing modules zedecksiew bradkerr araki
 media_subpath: /assets/img/MiT&P-P1/
 ---
 
-# The art of the first page
-
 > Modules In Theory & Practice Part 1
 
 ## Introduction
