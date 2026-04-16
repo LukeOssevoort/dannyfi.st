@@ -10,15 +10,15 @@ media_subpath: /assets/img/MiT&P-P1/
 
 ## Introduction
 
-JoJo's Bizarre Adventure is my favourite manga. It's unique combination of off-the-wall stories and shockingly classy art sensibilities make it a damn treat for a comics fan. So when a book was released that promised to be mangaka[^mangaka] Hirohiko Araki giving away his, as he puts it, royal road of mangha I had to buy it. I didn't care that I had not the ability to make a manga, given my lack of a trained art skill, I got it as soon as possible. This, like his manga, is a rare treat; a chance to step into the mind of a genius.
+JoJo's Bizarre Adventure is my favourite manga. It's unique combination of off-the-wall stories and shockingly classy art sensibilities make it a damn treat for a comics fan. So when a book was released that promised to be mangaka[^mangaka] Hirohiko Araki giving away his, as he puts it, royal road of manga I had to buy it. I didn't care that I had not the ability to make a manga, given my lack of a trained art skill, I got it as soon as possible. This, like his manga, is a rare treat; a chance to step into the mind of a genius.
 
-In the intro Araki muses that his advice could apply to almost any endevour, particularly creative endevours. So why not apply this to TRPG[^tabletop] modules? Surely there is at least some crossover even if TRPGs have to account for player agency in their story telling. Well let's find out together by analysing some of my favourites through this lens.
+In the intro Araki muses that his advice could apply to almost any endeavour, particularly creative endeavours. So why not apply this to TRPG[^tabletop] modules? Surely there is at least some crossover even if TRPGs have to account for player agency in their storytelling. Well let's find out together by analysing some of my favourites through this lens.
 
-The first section of the book is about the first panel and page. Notoriously harsh manga editors would often judge new work by its first impression. If it doesn't impress immediately it doesn't leave the envelope.
+The first section of the book is about the first panel and page. Notoriously harsh manga editors would often judge new work by its first impression. If it doesn't impress immediately it doesn't leave the envelope. Araki's observation here is to be very clear on what that first page says about the manga and what it leaves unsaid.
 
 - Hirohiko Araki = favourite mangaka
 - Gave all his manga secrets
-- Should apply to all story telling
+- Should apply to all storytelling
 - Modules for example
 - Let's analyse it
 
@@ -27,7 +27,7 @@ The first section of the book is about the first panel and page. Notoriously har
 ![The intro spread for The Sinister Secret of Peacock Point](PeacockPoint.png)
 _Art by [Skullboy][skullboy]_
 
-### Cover + title page
+### Cover + Title Page
 
 - Monochrome art
 - Unusual armless monster - the Skitterlord
@@ -35,12 +35,12 @@ _Art by [Skullboy][skullboy]_
 - Tagline mix of amusing and informative
 - Simple bold font for title emphasising the quintessential dungeon crawl theme
 
-### First pages
+### First Pages
 
 - Map continues the purple theme
 - Intro lays down that this dungeon requires thought to survive
 - Apple Bottom Gang silly and naive name
-- Skitterlord comes accross as this serious threat rolling over an otherwise silly gang of bandits
+- Skitterlord comes across as this serious threat rolling over an otherwise silly gang of bandits
 - Music weakness highly sensory
 - Peacock for sense of place
 - Other adventures in Wyvern Songs do not have the same first pages
@@ -51,7 +51,7 @@ _Art by [Skullboy][skullboy]_
 
 ## Conclusion
 
-[^mangaka]: the proper term for a manga author, can refer to artist or writers though typically it is both.
+[^mangaka]: The proper term for a manga author, can refer to artist or writers though typically it is both.
 [^tabletop]: Tabletop is one word so this is more correct than TTRPG and fits all the other types of RPG like CRPG and JRPG
 
 [skullboy]: https://betterlegends.com/
