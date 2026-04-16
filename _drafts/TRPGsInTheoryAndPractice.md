@@ -1,5 +1,5 @@
 ---
-itle: MiT&P Part 1: The First Page
+title: MiT&P Part 1: The First Page
 description: The first part of our Modules in Theory & Practice series where I analyse the art of the first page.
 categories: [General, Opinion]
 tags: osr writing modules zedecksiew bradkerr araki
