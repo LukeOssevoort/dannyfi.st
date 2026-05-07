@@ -6,15 +6,17 @@ An Into the Odd style cyberpunk game would be my ideal TRPG. The core system is 
 
 Hacking is a complicated subject, because computers are complicated machines. One of the earliest known hacks was done over the phone with a cereal whistle for fuck's sake[^cpt-crunch]. So I think the best approach is to have multiple systems for different kinds of hacks.
 
-Core principles first.
+## Core principles first
 
 1. The hacker should always be in danger in some way whether by having to be on-site or the pursuit of black ICE[^ice] and defending hackers.
 2. No remote "guy in the chair" style hacking without some work. No reasonable security network would be so exposed as to be accessible via the internet.
-3. Should fit within normal procedures rather than its own minigame. The hacker should always feel like a member of the crew.
+3. Should fit within normal procedures rather than its own minigame. The hacker should always feel like a member of the crew and play in the same dungeon turns.
 
 ## Lockpick style
 
-The first is to treat it the same a lockpicking, a 1 turn per try skill check with increasing danger. This fits small things like electronic locks, speaker systems, LED billboards, etc. Anything that in real life would not be networked, severly isolated, or hackable via a hardware solution. A quick hack like this should only every do 1 thing, and usually something physical.
+The first is to treat it the same a lockpicking, a 1 turn per try skill check with increasing danger. This fits small things like electronic locks, speaker systems, LED billboards, etc. Anything that in real life would not be networked, severly isolated, or hackable via a hardware solution. A quick hack like this should only every do 1 thing, and usually something physical. Simple.
+
+## Full dive
 
 - Saw article on this a while ago
 - Wanted specific ideas
