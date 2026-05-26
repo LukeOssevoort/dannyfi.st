@@ -19,7 +19,7 @@ Another criticism caught up in all this is that D&D and its children are colonia
 
 I really do mean that you don't need to change your game to suit these kind of analyses. For one the colonialism lense presupposes you are treating creatures like goblins as a species rather than Tolkien's embodiement of human evil. Encountering and dealing with pure evil is thematically rich if you are aware of it and do it on purpose. In this way embracing Tolkien's version of goblins is a valid response to the questions that the colonialism lense brings, whilst simultaneously rejecting that lense.
 
-Good art criticism, like good art is an invitation to think. To look at things with new eyes. In this sense, the Quinns Quest review of Stonetop is great art criticism. The adverse reaction to it is more a function of illiteracy, and the inability to entertain contrary opinions that comes with it, in games as a whole. When you "attack" someone's game of choice, you attack them.
+Good art criticism, like good art is an invitation to think. To look at things with new eyes. In this sense, the Quinns Quest review of Stonetop is great art criticism. The adverse reaction to it is more a function of illiteracy, and the inability to entertain contrary opinions that comes with it, in games as a whole. Did Quinns state his opinion in a fairly agressive way? Sure, but he its good writing.
 
 [^qq]: Quinns Quest review
 [^bp]: Don't get me wrong, I like the visuals it's just the world building left so many important questions unanswered that would have been more interesting than retelling Hamlet again.
