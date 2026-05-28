@@ -40,7 +40,7 @@
     </ul>
   </nav>
 
-  <nav class="flex-column flex-grow-1 w-100 ps-0 webring webring--rail-default" aria-label="Webring">
+  <nav class="flex-wrap flex-grow-1 w-100 webring webring--rail-default" aria-label="Webring">
     <span class="webring-label"><a href="https://rootr.ing/">rootring</a></span>
     <div class="webring-links">
       <a href="https://rootr.ing/prev?site=https://dannyfi.st/">Prev</a>
@@ -60,7 +60,10 @@
       flex-wrap: wrap;
       padding-top: .45rem;
       border-top: 1px solid color-mix(in srgb, currentColor 24%, transparent);
+      border-bottom: 1px solid color-mix(in srgb, currentColor 24%, transparent);
       font: inherit;
+      padding-left: .45rem;
+      padding-right: .45rem;
     }
     .webring--rail-default .webring-label {
       opacity: .78;
