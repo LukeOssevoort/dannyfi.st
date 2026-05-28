@@ -1,0 +1,89 @@
+<!-- The Footer -->
+
+<footer
+  aria-label="Site Info"
+  class="
+    d-flex flex-column justify-content-center text-muted
+    flex-lg-row justify-content-lg-between align-items-lg-center pb-lg-3
+  "
+>
+<nav class="webring webring--rail-default" aria-label="Webring">
+  <span class="webring-label"><a href="https://rootr.ing/">rootring</a></span>
+  <div class="webring-links">
+    <a href="https://rootr.ing/prev?site=https://dannyfi.st/">Prev</a>
+    <a href="https://rootr.ing/random">Random</a>
+    <a href="https://rootr.ing/directory">Directory</a>
+    <a href="https://rootr.ing/next?site=https://dannyfi.st/">Next</a>
+  </div>
+</nav>
+
+<style>
+  .webring--rail-default {
+    margin-top: .5rem;
+    display: flex;
+    gap: .9rem 1rem;
+    align-items: baseline;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top: .45rem;
+    border-top: 1px solid color-mix(in srgb, currentColor 24%, transparent);
+    font: inherit;
+  }
+  .webring--rail-default .webring-label {
+    opacity: .78;
+    letter-spacing: .04em;
+    text-transform: lowercase;
+    font-size: .84rem;
+  }
+  .webring--rail-default .webring-links {
+    display: flex;
+    gap: .8rem;
+    flex-wrap: wrap;
+  }
+  .webring--rail-default a {
+    text-decoration: none;
+  }
+  .webring--rail-default a:hover {
+    text-decoration: underline;
+  }
+</style>
+  <p>
+    {{- '©' }}
+    <time>{{ 'now' | date: '%Y' }}</time>
+
+    {% if site.social.links %}
+      <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
+    {% else %}
+      <em class="fst-normal">{{ site.social.name }}</em>.
+    {% endif %}
+
+    {% if site.data.locales[include.lang].copyright.brief %}
+      <span
+        data-bs-toggle="tooltip"
+        data-bs-placement="top"
+        title="{{ site.data.locales[include.lang].copyright.verbose }}"
+      >
+        {{- site.data.locales[include.lang].copyright.brief -}}
+      </span>
+    {% endif %}
+  </p>
+
+  <p>
+    {%- capture _platform -%}
+      <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a>
+    {%- endcapture -%}
+
+    {%- capture _theme -%}
+      <a
+        data-bs-toggle="tooltip"
+        data-bs-placement="top"
+        title="v{{ theme.version }}"
+        href="https://github.com/cotes2020/jekyll-theme-chirpy"
+        target="_blank"
+        rel="noopener"
+      >Chirpy</a>
+    {%- endcapture -%}
+
+    {{ site.data.locales[include.lang].meta | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}
+  </p>
+</footer>
