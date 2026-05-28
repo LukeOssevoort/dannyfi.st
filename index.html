@@ -2,3 +2,44 @@
 layout: home
 # Index page
 ---
+
+<nav class="webring webring--rail-default" aria-label="Webring">
+  <span class="webring-label"><a href="https://rootr.ing/">rootring</a></span>
+  <div class="webring-links">
+    <a href="https://rootr.ing/prev?site=https://dannyfi.st/">Prev</a>
+    <a href="https://rootr.ing/random">Random</a>
+    <a href="https://rootr.ing/directory">Directory</a>
+    <a href="https://rootr.ing/next?site=https://dannyfi.st/">Next</a>
+  </div>
+</nav>
+
+<style>
+  .webring--rail-default {
+    margin-top: .5rem;
+    display: flex;
+    gap: .9rem 1rem;
+    align-items: baseline;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top: .45rem;
+    border-top: 1px solid color-mix(in srgb, currentColor 24%, transparent);
+    font: inherit;
+  }
+  .webring--rail-default .webring-label {
+    opacity: .78;
+    letter-spacing: .04em;
+    text-transform: lowercase;
+    font-size: .84rem;
+  }
+  .webring--rail-default .webring-links {
+    display: flex;
+    gap: .8rem;
+    flex-wrap: wrap;
+  }
+  .webring--rail-default a {
+    text-decoration: none;
+  }
+  .webring--rail-default a:hover {
+    text-decoration: underline;
+  }
+</style>
