@@ -1,6 +1,6 @@
 ---
 title: Mothership is Still Red Dwarf
-description: An exercise in stubborness and dead horse beating
+description: An exercise in stubbornness and dead horse beating
 categories: [Mothership, Opinion]
 tags: gm-ing ideas modules red-dwarf
 media_subpath: /assets/img/ms-is-rd-2/
