@@ -16,7 +16,7 @@ In the intro Araki muses that his advice could apply to almost any endeavour, pa
 
 The first section of the book is about the first panel and page. Notoriously harsh manga editors would often judge new work by its first impression. If it doesn't impress immediately it doesn't leave the envelope. Araki's observation here is to be very clear on what that first page says about the manga and what it leaves unsaid.
 
-For advenuture modules this probably best applies to the cover, and the first spread of the module. In this medium that is the first impression. Much of extensive collection of PDFs[^pdfs] were bought on the promise of the cover and the first spread is often what sells me on running it. All the most important parts of an adventure are in that first spread; like the hooks that pull your players into the action in the first place.
+For adventure modules this probably best applies to the cover, and the first spread of the module. In this medium that is the first impression. Much of extensive collection of PDFs[^pdfs] were bought on the promise of the cover and the first spread is often what sells me on running it. All the most important parts of an adventure are in that first spread; like the hooks that pull your players into the action in the first place.
 
 - Hirohiko Araki = favourite mangaka
 - Gave all his manga secrets
