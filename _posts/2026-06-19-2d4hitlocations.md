@@ -15,16 +15,18 @@ Do you need some random hit locations? No not body parts where attacks land like
 |    5 | Someone you really hate                                 | The creepy vizier                 | Really popular priest | Old money investor                  | Intellectual           | is                      |
 |    6 | The mum/dad/sentimental guardian figure of (roll again) | The next in line for (roll again) | Atheist intellectual  | Entrapenuer (read general scum bag) | Roll twice and combine | Jared Leto[^mc]         |
 
+Also there is a 1-in-6 chance they are also a wizard.
+
 ## Where are you killing them?
 
-|   d6 | Where |
-| ---- | ---- |
-|    1 | Palatial estate |
-|    2 | Cathedral |
-|    3 | A beautiful garden |
-|    4 | |
-|    5 | |
-|    6 | |
+|   d6 | Where                  | What's happening there | Who else is there | The ticking clock |
+| ---- | ---------------------- | ---------------------- |
+|    1 | Palatial estate        | A royal gala           |
+|    2 | Cathedral              | A sacred ceremony      |
+|    3 | A beautiful garden     | An auction             |
+|    4 | Pocket dimension       | An orgy                |
+|    5 | Ship                   | A feast                |
+|    6 | Roll twice and combine | Roll twice and combine |
 
 ## Why are you killing them?
 
@@ -37,7 +39,7 @@ Do you need some random hit locations? No not body parts where attacks land like
 |    5 | the  |
 |    6 | game |
 
-[^mc]: or Monte Cook if you hate him more
+[^mc]: or Monte Cook if you hate him more (thanks Prismatic Wasteland Discord)
 
 [rb]: https://www.prismaticwasteland.com/blog/random-blogwagon
 [ra-hl]: https://retiredadventurer.blogspot.com/2020/11/using-2d4-for-hit-locations-in-brp.html
