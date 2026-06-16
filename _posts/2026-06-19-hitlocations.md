@@ -24,14 +24,14 @@ Also there is a 1-in-6 chance they are also a wizard.
 
 ## Where are you killing them?
 
-|   d6 | Where                  | What's happening there | Who else is there          | The ticking clock                                  |
-| ---- | ---------------------- | ---------------------- | -------------------------- | -------------------------------------------------- |
-|    1 | Palatial estate        | A royal gala           | A visiting dignitary       | An invading army                                   |
-|    2 | Cathedral              | A sacred ceremony      | A famous chef              | The target is getting ready to leave               |
-|    3 | A beautiful garden     | An auction             | A local busybody           | Procedings are heading to a smaller locked chamber |
-|    4 | Pocket dimension       | An orgy                | A famed investigator       | The target is about to sign a binding agreement    |
-|    5 | Ship                   | A feast                | Another competing assassin | Your employer has your loved ones hostage          |
-|    6 | Roll twice and combine | Roll twice and combine | Jared Leto (bonus points)  | Abstergo is catching on to you                     |
+|   d6 | Where                  | What's happening there | Who else is there          | The ticking clock                                   |
+| ---- | ---------------------- | ---------------------- | -------------------------- | --------------------------------------------------- |
+|    1 | Palatial estate        | A royal gala           | A visiting dignitary       | An invading army                                    |
+|    2 | Cathedral              | A sacred ceremony      | A famous chef              | The target is getting ready to leave                |
+|    3 | A beautiful garden     | An auction             | A local busybody           | Proceedings are heading to a smaller locked chamber |
+|    4 | Pocket dimension       | An orgy                | A famed investigator       | The target is about to sign a binding agreement     |
+|    5 | Ship                   | A feast                | Another competing assassin | Your employer has your loved ones hostage           |
+|    6 | Roll twice and combine | Roll twice and combine | Jared Leto (bonus points)  | Abstergo is catching on to you                      |
 
 ## Why are you killing them?
 
@@ -48,7 +48,7 @@ and a big sack of gold.
 
 ## The extra juice
 
-You might have reached this point and are going "Danny these tables are shit-ass and so are you." Not only is that libelous slander of the highest order but I haven't even added the garish for this randomised dish. Retired Adventurer has another sexy little table that I have taken quite a shine to. Now whilst I would encourage you, foolhardy reader who would question my clear brilliance, to read [the source][ra-reuse] I will reproduce the table in full.
+You might have reached this point and are going "Danny these tables are shit-ass and so are you." Not only is that libellous slander of the highest order but I haven't even added the garish for this randomised dish. Retired Adventurer has another sexy little table that I have taken quite a shine to. Now whilst I would encourage you, foolhardy reader who would question my clear brilliance, to read [the source][ra-reuse] I will reproduce the table in full.
 
 ### 1d4 Ontological Relationships between Randomly Generated Entries for Lazy DMs
 
