@@ -2,7 +2,7 @@
 title: Random Hit Locations
 description: A zesty set of tables for when someone has to die
 categories: [General, Tables]
-tags: gm-ing random table blogwagon
+tags: gm-ing random table blogwagon retiredadventurer
 ---
 
 > This post is part of [Prismatic Wasteland's Random Blogwagon][rb]
