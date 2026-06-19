@@ -52,10 +52,13 @@ You might have reached this point and are going "Danny these tables are shit-ass
 
 ### 1d4 Ontological Relationships between Randomly Generated Entries for Lazy DMs
 
-1) Palimpsestic - The previous result is effaced except for a few traces (the slimes have eaten the orcs, only orc bones and treasure remain)
-2) Additive - The previous result remains and the new result is simply added onto it (the slimes and the orcs are hanging out)
-3) Combined - The new result and the previous result are combined into a single entity (the slimes are orc-shaped, or the orcs are covered in intelligent slimes)
-4) Conditional - One or more of the results must be brought into the shared fiction via some trigger (the slimes are in jars, and if you're sloppy when you fight the orcs you will break them and release them)
+1. Palimpsestic - The previous result is effaced except for a few traces (the slimes have eaten the orcs, only orc bones and treasure remain)
+
+2. Additive - The previous result remains and the new result is simply added onto it (the slimes and the orcs are hanging out)
+
+3. Combined - The new result and the previous result are combined into a single entity (the slimes are orc-shaped, or the orcs are covered in intelligent slimes)
+
+4. Conditional - One or more of the results must be brought into the shared fiction via some trigger (the slimes are in jars, and if you're sloppy when you fight the orcs you will break them and release them)
 
 Now you can use this to generate a second VIP on the scene, complicate the original setting, or just make everything more chaotic. This little table is such a Swiss army knife that it makes the Swiss Army look like a bunch of under equipped babies. I would marry this table were I not in a mahoganous relationship with my desk. Use it, always. Staple it to your GM screen, notebook, and eyelids.
 
