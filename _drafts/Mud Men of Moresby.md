@@ -96,7 +96,7 @@ Dusty, almost **abandoned**. The people of Moresby don’t worship and the **pre
   - Only in the church from 2am \- 12pm, hungover  
   - Otherwise at the saloon
   - Incoherent
-  - If sobered up, will say the miners have knowingly made themselves god, breathing life into dirt
+  - If sobered up, will say the miners have knowingly made themselves gods, breathing life into dirt
 
 ### 3. Petey’s Pickle Palace
 
@@ -157,7 +157,7 @@ Mud run-off and misprints from the printer. They have melded together into a sin
 
 ### 6. The printer
 
-A machine of unknown origin. Turns mud into living creatures in the form of and obedient to their creator.
+A machine of unknown origin. Turns mud into living creatures in the form of and obedient to their creator. Leader and dissenter here
 
 ### 7. Treasury
 
