@@ -4,23 +4,62 @@
 
 [https://watabou.github.io/village-generator/?seed=1527396095\&tags=isolated,uncultivated\&roads=67703](https://watabou.github.io/village-generator/?seed=1527396095&tags=isolated,uncultivated&roads=67703)
 
+## The Timeline
+
+### 1 month earlier
+
+- A miner, **Leader**, finds **the device**
+- The **miners** go on strike and sieze the mine using **the device**
+- Supplies to maintain the strike are raided from the town
+
+### 1 week earlier
+
+- The town grows weary
+- The coal baron, **name**, hires **Death's Emisaries** with a contract written in blood
+
+### Now
+
+- The PCs arrive
+- The 2d4 mud men will raid town at twilight, stealing supplies and only getting violent when cornered
+
+### 1 day later
+
+- **Death's Emisaries** arrive, **Maxim gun** in toe, and head to **name's** mansion
+- **Name** sends messenger to the coal mine, "Stand down by noon or prepare to face your god"
+- The **miners** will not stand down and prepare to fight
+- That night the **preacher** goes missing
+
+### 2 days later
+
+- **Petey** has fresh pork
+- The **miners** send a small squad of 3 men (not mud men) to sneak into the Coal Baron's Mansion and perform the blood rites they have been preparing
+- At noon **Death's Emisaries** will raid the mine (details on their strategy in their section)
+- With no intervention the mansion squad is caught and killed, and there is only a 1 in 6 chance the miners defeat the mercs and sieze the **Maxim gun**
+
+### 1 week later
+
+- **Petey** flees town with new jars of pickling human remains
+- **Death's Emisaries** rise again
+
 ## The Town of Moresby
 
 ![Map of the town of Moresby][image1]
 
-The entire town is caked in mud from boots of miners and the hands of Mud Men. Everything described is under a layer of half-dry mud (with the exception of 5. The Coal Baron's Mansion).
+The entire town is caked in mud from boots of miners and the hands of Mud Men. Everything described is under a layer of half-dry mud (with the exception of *5. The Coal Baron's Mansion*).
 
 ### 1. The Pig Pen
 
-Saloon made of the pine collected deforesting the area. Was once a place of pride for the community, now abused and disused. Has a self-playing **piano** that is almost always running.
+Saloon made of the pine collected deforesting the area. Was once a place of pride for the community with an ironic name. Now it is abused and disused. Owned and operated by **Bar Maid**. Has a self-playing **piano** that is almost always running.
 
-- Bar Maid/Owner  
+- **Bar Maid**
   - Widow of a coal miner.
   - Hard but kindly. Offers shelter for a quarter.
   - Thinks little of the strike and the Coal Baron. Only wishes for the saloon to be full every night like it used to.
   - Only here because if she left she’d have to start again and she's too old of that.
 - **Piano**: Locked tight. Operated internally by an imp.
+  - Imp speaks in poorly improvised songs
   - Imp is perfectly obedient if contained or bound. Otherwise it will flee.
+  - Was summoned by owner. The ritual books used to do it were stolen by the mud men.
 
 ### 2. The Church
 
