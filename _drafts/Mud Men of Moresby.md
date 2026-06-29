@@ -6,7 +6,7 @@
 
 ## The Town of Moresby
 
-![][image1]
+![Map of the town of Moresby][image1]
 
 The entire town is caked in mud from boots of miners and the hands of Mud Men. Everything described is under a layer of half-dry mud (with the exception of 5. The Coal Baron's Mansion).
 
@@ -20,7 +20,7 @@ Saloon made of the pine collected deforesting the area. Was once a place of prid
   - Thinks little of the strike and the Coal Baron. Only wishes for the saloon to be full every night like it used to.
   - Only here because if she left she’d have to start again and she's too old of that.
 - **Piano**: Locked tight. Operated internally by an imp.
-	- Imp is perfectly obedient if contained or bound. Otherwise it will flee.
+  - Imp is perfectly obedient if contained or bound. Otherwise it will flee.
 
 ### 2. The Church
 
@@ -63,7 +63,7 @@ A slow working perfectionist, cart won’t be done for 2d4 days.
 
 ## Muddy Coal Mine
 
-![][image2]
+![Map of the coal mine][image2]
 
 ### 1. Entrance
 
