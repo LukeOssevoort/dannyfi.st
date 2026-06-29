@@ -9,13 +9,13 @@
 ### 1 month earlier
 
 - A miner, **Leader**, finds **the device**
-- The **miners** go on strike and sieze the mine using **the device**
+- The **miners** go on strike and seize the mine using **the device**
 - Supplies to maintain the strike are raided from the town
 
 ### 1 week earlier
 
 - The town grows weary
-- The coal baron, **name**, hires **Death's Emisaries** with a contract written in blood
+- The coal baron, **name**, hires **Death's Emissaries** with a contract written in blood
 
 ### Now
 
@@ -24,7 +24,7 @@
 
 ### 1 day later
 
-- **Death's Emisaries** arrive, **Maxim gun** in toe, and head to **name's** mansion
+- **Death's Emissaries** arrive, **Maxim gun** in toe, and head to **name's** mansion
 - **Name** sends messenger to the coal mine, "Stand down by noon or prepare to face your god"
 - The **miners** will not stand down and prepare to fight
 - That night the **preacher** goes missing
@@ -33,13 +33,24 @@
 
 - **Petey** has fresh pork
 - The **miners** send a small squad of 3 men (not mud men) to sneak into the Coal Baron's Mansion and perform the blood rites they have been preparing
-- At noon **Death's Emisaries** will raid the mine (details on their strategy in their section)
-- With no intervention the mansion squad is caught and killed, and there is only a 1 in 6 chance the miners defeat the mercs and sieze the **Maxim gun**
+- At noon **Death's Emissaries** will raid the mine (details on their strategy in their section)
+- With no intervention the mansion squad is caught and killed, and there is only a 1 in 6 chance the miners defeat the mercs and seize the **Maxim gun**
 
 ### 1 week later
 
 - **Petey** flees town with new jars of pickling human remains
-- **Death's Emisaries** rise again
+- **Death's Emissaries** rise again
+
+## Death's Emissaries
+
+7 men on dark horses, faces shrouded in shadow, voices like rolling thunder
+
+**HP** 6 **Morale** 10
+**Black leathers** d2
+
+3 are sweepers, flushing out the enemy, armed with **shotguns**
+2 are guards, defending the gunners, armed with **repeaters**
+2 are gunners, killing anyone the sweeper flush out, operating the **Maxim gun** (4d6)
 
 ## The Town of Moresby
 
@@ -63,25 +74,29 @@ Saloon made of the pine collected deforesting the area. Was once a place of prid
 
 ### 2. The Church
 
-Dusty, almost abandoned. The people of Moresby don’t worship and the preacher is losing hope.
+Dusty, almost **abandoned**. The people of Moresby don’t worship and the **preacher** has lost hope.
 
-- Preacher  
+- **Abandoned**: the donation box is untouched. Contain $3.33
+- **Preacher**
   - Only in the church from 2am \- 12pm, hungover  
   - Otherwise at the saloon
+  - Incoherent
 
 ### 3. Petey’s Pickle Palace
 
-Only source of long term food given the desolate surroundings.
+Jars upon jars of meats, fruits and vegetables preserved, pickled and dried. A lifelong obsession of **Petey** turned vital food source in the desolate surrounds.
 
-- Petey  
-  - Weirdo with a pickle fetish  
-  - Has hidden eerily realistic drawings of men and women chopped up and pickled
+- **Petey**
+  - His enthusiasm for preserving food (and more) knows no bounds
+  - Will sell on fresh food he has yet to pickle but has nothing on hand for now
+  - Thinking of leaving town but he can't leave something half pickled (see timeline)
+  - Has hidden a book of eerily realistic drawings of people chopped up and pickled
 
-### 4. Sherif’s Station
+### 4. Sheriff’s Station
 
 Small office and small separate jail. Jail serves little purpose as the door is off its hinges.
 
-- Sherif  
+- Sheriff  
   - At wits end, doesn't care what happens just doesn't want the heat that’ll come from this dragging on.
 
 ### 5. Coal Baron’s Mansion
@@ -92,13 +107,13 @@ Green, shockingly so compared to the muddy surrounds; the rose garden is beautif
   - Wants an end to this silly union business  
   - Calling in mercs (Death’s Emmisaries) to flush ‘em out, dead or alive.
 
-### 6. Muddy Coal Mine
-
- See next section
-
-### 7. Cartwright
+### 6. Cartwright
 
 A slow working perfectionist, cart won’t be done for 2d4 days.
+
+### 7. Muddy Coal Mine
+
+ See next section
 
 ## Muddy Coal Mine
 
