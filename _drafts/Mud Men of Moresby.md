@@ -95,7 +95,7 @@ Dusty, almost **abandoned**. The people of Moresby don’t worship and the **pre
 - **Preacher**
   - Only in the church from 2am \- 12pm, hungover  
   - Otherwise at the saloon
-  - Incoherent
+  - Incoherent and drunk
   - If sobered up, will say the miners have knowingly made themselves gods, breathing life into dirt
 
 ### 3. Petey’s Pickle Palace
@@ -119,7 +119,7 @@ Small office and small separate jail. Jail serves little purpose as the door is 
 
 Green, shockingly so compared to the muddy surrounds; the rose garden is beautiful.
 
-- Coal Baron  
+- Coal Baron
   - Wants an end to this silly union business  
   - Calling in mercs (Death’s Emmisaries) to flush ‘em out, dead or alive.
 
