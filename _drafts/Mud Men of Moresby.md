@@ -96,6 +96,7 @@ Dusty, almost **abandoned**. The people of Moresby don’t worship and the **pre
   - Only in the church from 2am \- 12pm, hungover  
   - Otherwise at the saloon
   - Incoherent
+  - If sobered up, will say the miners have knowingly made themselves god, breathing life into dirt
 
 ### 3. Petey’s Pickle Palace
 
