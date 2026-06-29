@@ -41,15 +41,30 @@
 - **Petey** flees town with new jars of pickling human remains
 - **Death's Emissaries** rise again
 
+## The device
+
+Creates intelligent copies of living creatures out of mud. Makes one a day and occasionally jams making an distorted freak.
+
+### Mud Men
+
+Perfectly obedient. Messy. Are mistaken by the towns people as mud caked miners.
+
+**HP** 4 **Morale** 12
+
+**Sodden fist** d4
+
 ## Death's Emissaries
 
 7 men on dark horses, faces shrouded in shadow, voices like rolling thunder
 
 **HP** 6 **Morale** 10
+
 **Black leathers** d2
 
 3 are sweepers, flushing out the enemy, armed with **shotguns**
+
 2 are guards, defending the gunners, armed with **repeaters**
+
 2 are gunners, killing anyone the sweeper flush out, operating the **Maxim gun** (4d6)
 
 ## The Town of Moresby
