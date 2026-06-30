@@ -79,7 +79,7 @@ Saloon made of the pine collected deforesting the area. Was once a place of prid
 
 - **Bar Maid**
   - Widow of a coal miner.
-  - Hard but kindly. Offers shelter for a quarter.
+  - Hard but kindly. Offers shelter for a silver, and feeds the women and children the miners abandoned.
   - Thinks little of the strike and the Coal Baron. Only wishes for the saloon to be full every night like it used to.
   - Only here because if she left she’d have to start again and she's too old of that.
 - **Piano**: Locked tight. Operated internally by an imp.
@@ -89,7 +89,7 @@ Saloon made of the pine collected deforesting the area. Was once a place of prid
 
 ### 2. The Church
 
-Dusty, almost **abandoned**. The people of Moresby don’t worship and the **preacher** has lost hope.
+Dusty, almost **abandoned**. Lines of wooden pew long since unoccupied. The people of Moresby don’t worship and the **preacher** has lost hope.
 
 - **Abandoned**: the donation box is untouched. Contain $3.33
 - **Preacher**
@@ -110,18 +110,26 @@ Jars upon jars of meats, fruits and vegetables preserved, pickled and dried. A l
 
 ### 4. Sheriff’s Station
 
-Small office and small separate jail. Jail serves little purpose as the door is off its hinges.
+The small office smells strongly of burnt **coffee** and tobbaco. Impecibly clean other than its loosing battle with the mud. All the furnishings are patched, nailed and painted over; clearly **broken** and repaired many time. The **Sheriff** is always here.
 
-- Sheriff  
-  - At wits end, doesn't care what happens just doesn't want the heat that’ll come from this dragging on.
+- **Coffee**: There is a nice full pot of poorly made coffee that all vistors can help themselves to
+- **Broken**: The jail cells in the corner have their doors broken off their hinges
+  - Not worth fixing as the mudmen come and break out anyone they arrest
+- **Sheriff**
+  - Gruff, tired and just about ready to quit
+  - Wants the miners to stand down one way or another, so he can avoid the heat that will come if this escalates
+  - Will deputise anyone who presents a *sensible*(/easy) solution. Deputies get paid 5s each.
+  - Unwilling to fight
 
 ### 5. Coal Baron’s Mansion
 
-Green, shockingly so compared to the muddy surrounds; the rose garden is beautiful.
+Up on a hill overlooking the town. Inside the gates an unfamiliar colour, green. There is a rose garden; fragrant and beautiful. When the **coal baron** is not out enjoying the garden, he is inside enjoying the same pickled diet the rest of Moresby does (but in greater quantities).
 
-- Coal Baron
-  - Wants an end to this silly union business  
-  - Calling in mercs (Death’s Emmisaries) to flush ‘em out, dead or alive.
+- **Coal Baron**
+  - Pompous, pretentious, rich
+  - Believes God put him on this earth to dig up and burn holy "carbon" so that it might continue its eternal cycle
+  - Wants an end to this silly union business without coughing up any more silver
+  - Calling in mercs (**Death’s Emissaries**) to flush 'em out, dead or alive
 
 ### 6. Cartwright
 
@@ -129,7 +137,7 @@ A slow working perfectionist, cart won’t be done for 2d4 days.
 
 ### 7. Muddy Coal Mine
 
- See next section
+See next section
 
 ## Muddy Coal Mine
 
@@ -137,7 +145,7 @@ A slow working perfectionist, cart won’t be done for 2d4 days.
 
 ### 1. Entrance
 
-Shotgun trip wire. DR12 Luck or d6 damage
+Thick mud torn up by heavy foot traffic. Hidden in the mud is a shotgun trip wire; only noticeable if you are looking for something in the mud. DR12 Luck or d6 damage.
 
 ### 2. Graphitti’d walls
 
@@ -145,7 +153,13 @@ Miners have painted the stone walls with mud, crude illustrations of the coal ba
 
 ### 3. Sleeping quarters
 
-Hastily assembled cots and bedrolls in a drier part of the cave.
+Hastily assembled cots and **bedrolls** in a drier part of the cave.
+
+- **Bedrolls**: The miners all hide their personal effects in their bedrolls
+  1. A family photo depicting a wife and daughter
+  2. A letter begging her husband to come back home
+  3. A dogeared deck of cards
+  4. 
 
 ### 4. Broken equipment
 
