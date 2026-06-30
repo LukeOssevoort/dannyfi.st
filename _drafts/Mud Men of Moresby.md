@@ -159,7 +159,7 @@ Hastily assembled cots and **bedrolls** in a drier part of the cave.
   1. A family photo depicting a wife and daughter
   2. A letter begging her husband to come back home
   3. A dogeared deck of cards
-  4. 
+  4. The world's smallest violin and sheet music for the world's saddest song
 
 ### 4. Broken equipment
 
