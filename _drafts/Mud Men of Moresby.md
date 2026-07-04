@@ -49,17 +49,13 @@ Creates intelligent copies of living creatures out of mud. Makes one a day and o
 
 Perfectly obedient. Messy. Are mistaken by the towns people as mud caked miners.
 
-**HP** 4 **Morale** 12
-
-**Sodden fist** d4
+**HP** 4 **Morale** 12 **sodden fist** d4
 
 ## Death's Emissaries
 
 7 men on dark horses, faces shrouded in shadow, voices like rolling thunder
 
-**HP** 6 **Morale** 10
-
-**Black leathers** d2
+**HP** 6 **Morale** 10 **black leathers** -2
 
 3 are sweepers, flushing out the enemy, armed with **shotguns**
 
@@ -145,7 +141,9 @@ See next section
 
 ### 1. Entrance
 
-Thick mud torn up by heavy foot traffic. Hidden in the mud is a shotgun trip wire; only noticeable if you are looking for something in the mud. DR12 Luck or d6 damage.
+Thick mud torn up by heavy foot traffic. Hidden in the mud is a shotgun **trip wire**; signalled subtly by a gap in the footprints as miners and mudmen step over the trip wire.
+
+  -**Trip wire**: DR12 Luck or d6 damage
 
 ### 2. Graphitti’d walls
 
@@ -160,14 +158,22 @@ Hastily assembled cots and **bedrolls** in a drier part of the cave.
   2. A letter begging her husband to come back home
   3. A dogeared deck of cards
   4. The world's smallest violin and sheet music for the world's saddest song
+  5. Revolver ammo
+  6. Ritual knife, bloodstained
 
 ### 4. Broken equipment
 
-Snapped handles, blunted picks and dented shovels. A keen eye notices they were barely better before they were broken.
+Snapped handles, blunted picks and dented shovels; all piled together. All the **tools** are branded Unbreakable.
+
+-**Tools**: Buried in the pile is an unbroken, high quality shovel; the Manager's Special (d6)
 
 ### 5. Misprint pile
 
-Mud run-off and misprints from the printer. They have melded together into a single form.
+The large mud puddle moves. Faces, hands, feet forming a disolving into **the mass**. A chorus of moans from half formed lungs fill the air; notes of pain and sadness.
+
+- **The mass**: A collection of misprints from the device, melded into a single being
+  - **HP** 10 **Morale** 10 **clawing hands** d4
+  - **Hard to kill.** Only dies if dealt damage is exactly equal to its remaining HP.
 
 ### 6. The printer
 
