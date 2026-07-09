@@ -8,14 +8,14 @@
 
 ### 1 month earlier
 
-- A miner, **Leader**, finds **the device**
+- A miner, **Joel Carter**, finds **the device**
 - The **miners** go on strike and seize the mine using **the device**
 - Supplies to maintain the strike are raided from the town
 
 ### 1 week earlier
 
 - The town grows weary
-- The coal baron, **name**, hires **Death's Emissaries** with a contract written in blood
+- The coal baron, **Cornelius Blackwood**, hires **Death's Emissaries** with a contract written in blood
 
 ### Now
 
@@ -24,10 +24,10 @@
 
 ### 1 day later
 
-- **Death's Emissaries** arrive, **Maxim gun** in toe, and head to **name's** mansion
-- **Name** sends messenger to the coal mine, "Stand down by noon or prepare to face your god"
+- **Death's Emissaries** arrive, **Maxim gun** in toe, and head to **Blackwood's** mansion
+- **Cornelius Blackwood** sends messenger to the coal mine, "Stand down by noon or prepare to face your god"
 - The **miners** will not stand down and prepare to fight
-- That night the **preacher** goes missing
+- That night the **Reverend Josiah Moore** goes missing
 
 ### 2 days later
 
@@ -41,13 +41,20 @@
 - **Petey** flees town with new jars of pickling human remains
 - **Death's Emissaries** rise again
 
+## Hooks
+
+1. The PCs carriage has broken down nearby
+2. **Sheriff Bill** has sent for reinforcements
+3. **Cornelius Blackwood** has hired the crew as negotiators (so that he does not need to pay **Death's Emissaries**)
+4. The PCs have a bounty for a nameless serial killer and a tip pointing them to Moresby
+
 ## The device
 
 Creates intelligent copies of living creatures out of mud. Makes one a day and occasionally jams making an distorted freak.
 
 ### Mud Men
 
-Perfectly obedient. Messy. Are mistaken by the towns people as mud caked miners.
+Perfectly obedient. Messy. Are mistaken by the towns people as mud caked miners. Dissolve into a pile of mud when killed.
 
 **HP** 4 **Morale** 12 **sodden fist** d4
 
@@ -57,9 +64,9 @@ Perfectly obedient. Messy. Are mistaken by the towns people as mud caked miners.
 
 **HP** 6 **Morale** 10 **black leathers** -2
 
-3 are sweepers, flushing out the enemy, armed with **shotguns**
+3 are sweepers, flushing out the enemy, armed with **double- barreled shotguns** (d6/2d6 both barrels)
 
-2 are guards, defending the gunners, armed with **repeaters**
+2 are guards, defending the gunners, armed with **repeaters** (d6*)
 
 2 are gunners, killing anyone the sweeper flush out, operating the **Maxim gun** (4d6)
 
@@ -71,24 +78,24 @@ The entire town is caked in mud from boots of miners and the hands of Mud Men. E
 
 ### 1. The Pig Pen
 
-Saloon made of the pine collected deforesting the area. Was once a place of pride for the community with an ironic name. Now it is abused and disused. Owned and operated by **Bar Maid**. Has a self-playing **piano** that is almost always running.
+Saloon made of the pine collected deforesting the area. Was once a place of pride for the community with an ironic name. Now it is abused and disused. Owned and operated by **Ruth Doyle**. Has a self-playing **piano** that is almost always running.
 
-- **Bar Maid**
+- **Ruth Doyle**
   - Widow of a coal miner.
   - Hard but kindly. Offers shelter for a silver, and feeds the women and children the miners abandoned.
   - Thinks little of the strike and the Coal Baron. Only wishes for the saloon to be full every night like it used to.
   - Only here because if she left she’d have to start again and she's too old of that.
-- **Piano**: Locked tight. Operated internally by an imp.
+- **Piano**: Locked tight. Operated internally by an imp (Pachonkle).
   - Imp speaks in poorly improvised songs
   - Imp is perfectly obedient if contained or bound. Otherwise it will flee.
   - Was summoned by owner. The ritual books used to do it were stolen by the mud men.
 
 ### 2. The Church
 
-Dusty, almost **abandoned**. Lines of wooden pew long since unoccupied. The people of Moresby don’t worship and the **preacher** has lost hope.
+Dusty, almost **abandoned**. Lines of wooden pew long since unoccupied. The people of Moresby don’t worship and the **Reverend Josiah Moore** has lost hope.
 
 - **Abandoned**: the donation box is untouched. Contain $3.33
-- **Preacher**
+- **Reverend Josiah Moore**
   - Only in the church from 2am \- 12pm, hungover  
   - Otherwise at the saloon
   - Incoherent and drunk
@@ -99,6 +106,7 @@ Dusty, almost **abandoned**. Lines of wooden pew long since unoccupied. The peop
 Jars upon jars of meats, fruits and vegetables preserved, pickled and dried. A lifelong obsession of **Petey** turned vital food source in the desolate surrounds.
 
 - **Petey**
+  - Mononym
   - His enthusiasm for preserving food (and more) knows no bounds
   - Will sell on fresh food he has yet to pickle but has nothing on hand for now
   - Thinking of leaving town but he can't leave something half pickled (see timeline)
@@ -106,12 +114,12 @@ Jars upon jars of meats, fruits and vegetables preserved, pickled and dried. A l
 
 ### 4. Sheriff’s Station
 
-The small office smells strongly of burnt **coffee** and tobbaco. Impecibly clean other than its loosing battle with the mud. All the furnishings are patched, nailed and painted over; clearly **broken** and repaired many time. The **Sheriff** is always here.
+The small office smells strongly of burnt **coffee** and tobbaco. Impecibly clean other than its loosing battle with the mud. All the furnishings are patched, nailed and painted over; clearly **broken** and repaired many time. The **Sheriff Bill** is always here.
 
 - **Coffee**: There is a nice full pot of poorly made coffee that all vistors can help themselves to
 - **Broken**: The jail cells in the corner have their doors broken off their hinges
   - Not worth fixing as the mudmen come and break out anyone they arrest
-- **Sheriff**
+- **Sheriff Bill**
   - Gruff, tired and just about ready to quit
   - Wants the miners to stand down one way or another, so he can avoid the heat that will come if this escalates
   - Will deputise anyone who presents a *sensible*(/easy) solution. Deputies get paid 5s each.
@@ -121,7 +129,7 @@ The small office smells strongly of burnt **coffee** and tobbaco. Impecibly clea
 
 Up on a hill overlooking the town. Inside the gates an unfamiliar colour, green. There is a rose garden; fragrant and beautiful. When the **coal baron** is not out enjoying the garden, he is inside enjoying the same pickled diet the rest of Moresby does (but in greater quantities).
 
-- **Coal Baron**
+- **Coal Baron**: Cornelius Blackwood
   - Pompous, pretentious, rich
   - Believes God put him on this earth to dig up and burn holy "carbon" so that it might continue its eternal cycle
   - Wants an end to this silly union business without coughing up any more silver
@@ -177,7 +185,7 @@ The large mud puddle moves. Faces, hands, feet forming a disolving into **the ma
 
 ### 6. The printer
 
-A machine of unknown origin. Turns mud into living creatures in the form of and obedient to their creator. Leader and dissenter here
+A machine of unknown origin. Turns mud into living creatures in the form of and obedient to their creator. Joel Carter and Jackson Dunn are here
 
 ### 7. Treasury
 
