@@ -114,12 +114,12 @@ Jars upon jars of meats, fruits and vegetables preserved, pickled and dried. A l
 
 ### 4. Sheriff’s Station
 
-The small office smells strongly of burnt **coffee** and tobbaco. Impecibly clean other than its loosing battle with the mud. All the furnishings are patched, nailed and painted over; clearly **broken** and repaired many time. The **Sheriff Bill** is always here.
+The small office smells strongly of burnt **coffee** and tobbaco. Impecibly clean other than its loosing battle with the mud. All the furnishings are patched, nailed and painted over; clearly **broken** and repaired many time. The **Sheriff Bill Williamson** is always here.
 
 - **Coffee**: There is a nice full pot of poorly made coffee that all vistors can help themselves to
 - **Broken**: The jail cells in the corner have their doors broken off their hinges
   - Not worth fixing as the mudmen come and break out anyone they arrest
-- **Sheriff Bill**
+- **Sheriff Bill Williamson**
   - Gruff, tired and just about ready to quit
   - Wants the miners to stand down one way or another, so he can avoid the heat that will come if this escalates
   - Will deputise anyone who presents a *sensible*(/easy) solution. Deputies get paid 5s each.
@@ -166,7 +166,7 @@ Hastily assembled cots and **bedrolls** in a drier part of the cave.
   2. A letter begging her husband to come back home
   3. A dogeared deck of cards
   4. The world's smallest violin and sheet music for the world's saddest song
-  5. Revolver ammo
+  5. Revolver ammo (1 item slot's worth)
   6. Ritual knife, bloodstained
 
 ### 4. Broken equipment
@@ -185,7 +185,13 @@ The large mud puddle moves. Faces, hands, feet forming a disolving into **the ma
 
 ### 6. The printer
 
-A machine of unknown origin. Turns mud into living creatures in the form of and obedient to their creator. Joel Carter and Jackson Dunn are here
+A **machine** of unknown origin partially buried. Turns mud into living creatures in the form of and obedient to their creator. **Joel Carter** and **Jackson Dunn** are here.
+
+- **Machine**: The device responsible for spawning the mud men. Metallic and angular.
+- **Joel Carter**
+  - True believer in the cause
+  - Willing to do whatever necessary; including dark blood pacts
+  - Will recruit willing PCs in his plan to bind **Blackwood** to their service using dark magic.
 
 ### 7. Treasury
 
