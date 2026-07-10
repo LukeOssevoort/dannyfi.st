@@ -191,7 +191,7 @@ A **machine** of unknown origin partially buried. Turns mud into living creature
 - **Joel Carter**
   - True believer in the cause
   - Willing to do whatever necessary; including dark blood pacts
-  - Will recruit willing PCs in his plan to bind **Blackwood** to their service using dark magic.
+  - Will recruit willing PCs in his plan to bind **Blackwood** to their service using dark magic
 
 ### 7. Treasury
 
