@@ -157,7 +157,7 @@ See next section
 
 Thick mud torn up by heavy foot traffic. Hidden in the mud is a shotgun **trip wire**; signalled subtly by a gap in the footprints as miners and mudmen step over the trip wire.
 
-  -**Trip wire**: DR12 Luck or d6 damage
+- **Trip wire**: DR12 Luck or d6 damage
 
 ### 2. Graphitti’d walls
 
@@ -179,7 +179,7 @@ Hastily assembled cots and **bedrolls** in a drier part of the cave.
 
 Snapped handles, blunted picks and dented shovels; all piled together. All the **tools** are branded Unbreakable.
 
--**Tools**: Buried in the pile is an unbroken, high quality shovel; the Manager's Special (d6)
+- **Tools**: Buried in the pile is an unbroken, high quality shovel; the Manager's Special (d6)
 
 ### 5. Misprint pile
 
