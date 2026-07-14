@@ -1,6 +1,6 @@
 # Frontier Scum Jam
 
-I submitted my entry for Frontier Scum's Summer Jam and I think it just might
+I submitted my entry for *Frontier Scum*'s Summer Jam and I think it just might
 be the best thing I have ever written (so far). The layout and art are a little
 shaky but I think the core is solid. Go download it and tell me what you think.
 
@@ -34,7 +34,7 @@ I stole this from one Joseph R Lewis because if it is good enough for that hack
 (read as amazing and prolific designer) then it's good enough for me. There is
 too much shit out there for everything to be a slick mass appeal product. Disney
 alone pumps out enough uninspired slop that you are better off keeping the weird
-stuff in that only you like. It'll stand out that way.
+stuff that only you like in. It'll stand out that way.
 
 The truism "kill your darlings" really doesn't apply to TTRPGs anyway. In a novel,
 where you can and should point your readers towards specific themes, silly extras
