@@ -1,4 +1,12 @@
-# Frontier Scum Jam
+---
+title: Mud Men of Moresby
+description: Some reflection on my submission to Frontier Scum's Summer Jam
+categories: [Frontier Scum, Modules]
+tags: gm-ing gamejam foss
+media_subpath: /assets/img/fs-jam/
+image:
+  path: itchcover.png
+---
 
 I submitted my entry for *Frontier Scum*'s Summer Jam and I think it just might
 be the best thing I have ever written (so far). The layout and art are a little
