@@ -21,12 +21,40 @@ sheets in a shared environment helps more than it hinders (especially
 if handled right). It is just a small piece of mental load that doesn't
 need to be placed on anyone at the table.
 
-- Importing of square, hex and gridless maps
-- Basic character sheet creation via plain text markup files that become
-interactive forms in the UI
-- Dice rolling with robust syntax
-- Basic macro system that can interact with character stats
-- Simple and manual fog of war system that snaps to the map grid
+### Maps
+
+The obvious part is allowing for square, hex and gridless maps that you
+can plop tokens onto. Where I think just a little bit of extra effort
+would help is allowing map makers to package their image with some data.
+Instead of maps just being a `png` or `jpg` they could also include a small
+[YAML][yaml] file specifying the grid type, size and offset so that
+everything is aligned on import. Package them in their own zip file with
+a special file extension (like `cbz` for comics) and you have something
+easily sharable for creators and usable for players.
+
+Map visibility should be handled by a simple, manually controlled fog
+of war system. Automatic vision looks flashy but in practice it breaks
+constantly and behaves unexpectedly. It ruins reveals, dungeon crawling
+and flow at the table. It is much easier if the GM can just pick what
+tiles are visible.
+
+### Character Sheets
+
+This is another area where I think should be dead simple and be a big
+improvement on existing VTTs. Basic principle is that character sheet
+templates should be easily creatable in a markup language, even just
+markdown with some use specific syntax. Then you can describe stats and
+macro buttons in sheets that are easily sharable and automatically conform
+to the VTT's look and feel. This makes implementing new or niche systems
+easy too.
+
+### Dice rolling
+
+Dice rolling syntax is already pretty will defined in other apps. So I
+think the rub here is in the specifics. Variables like stats should be
+easy to reference, defaulting to pulling from whoever made the roll.
+So instead of referring to `self.mods.dex` it would be just `dex` making
+it easier for most users to make a simple macro for common rolls.
 
 ## Wishlist features
 
