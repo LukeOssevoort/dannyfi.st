@@ -96,7 +96,8 @@ So instead of typing, users can assemble their macros out of predefined
 operations that can be linked together in a flow chart.
 
 For example here is a basic 5e roll:
-```mermaidjs
+
+```mermaid
 flowchart TD
   A[1d20] --> C{==20?}
   C -->|True| D[Output Critical Success!]
@@ -107,7 +108,8 @@ flowchart TD
 ```
 
 and here is a Cairn roll:
-```mermaidjs
+
+```mermaid
 flowchart TD
   A{Advantage/Disadvantage?} -->|No| B[1d20]
   A -->|Advantage| C[Lowest 1 of 2d20]
