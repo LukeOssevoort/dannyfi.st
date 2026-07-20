@@ -74,8 +74,12 @@ _Art by the very excellent [Skullboy][skullboy]_
 
 ## Conclusion
 
-[^mangaka]: The proper term for a manga author, can refer to artist or writers though typically it is both.
-[^tabletop]: Tabletop is one word so this is more correct than TTRPG and fits all the other types of RPG like CRPG and JRPG
-[^pdfs]: Shipping to Australia sucks so much I have considered making a YouTube channel just reviewing how well modules print at home. Probably a very limited audience for that one.
+[^mangaka]: The proper term for a manga author, can refer to artist or
+writers though typically it is both.
+[^tabletop]: Tabletop is one word so this is more correct than TTRPG
+and fits all the other types of RPG like CRPG and JRPG
+[^pdfs]: Shipping to Australia sucks so much I have considered making
+a YouTube channel just reviewing how well modules print at home.
+Probably a very limited audience for that one.
 
 [skullboy]: https://betterlegends.com/
