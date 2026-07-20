@@ -10,13 +10,34 @@ media_subpath: /assets/img/MiT&P-P1/
 
 ## Introduction
 
-JoJo's Bizarre Adventure is my favourite manga. It's unique combination of off-the-wall stories and shockingly classy art sensibilities make it a damn treat for a comics fan. So when a book was released that promised to be mangaka[^mangaka] Hirohiko Araki giving away his, as he puts it, royal road of manga I had to buy it. I didn't care that I had not the ability to make a manga, given my lack of a trained art skill, I got it as soon as possible. This, like his manga, is a rare treat; a chance to step into the mind of a genius.
+JoJo's Bizarre Adventure is my favourite manga. It's unique combination
+of off-the-wall stories and shockingly classy art sensibilities make
+it a damn treat for a comics fan. So when a book was released that
+promised to be mangaka[^mangaka] Hirohiko Araki giving away his, as he
+puts it, royal road of manga I had to buy it. I didn't care that I had
+not the ability to make a manga, given my lack of a trained art skill,
+I got it as soon as possible. This, like his manga, is a rare treat;
+a chance to step into the mind of a genius.
 
-In the intro Araki muses that his advice could apply to almost any endeavour, particularly creative endeavours. So why not apply this to TRPG[^tabletop] modules? Surely there is at least some crossover even if TRPGs have to account for player agency in their storytelling. Well let's find out together by analysing some of my favourites through this lens.
+In the intro Araki muses that his advice could apply to almost any
+endeavour, particularly creative endeavours. So why not apply this to
+TRPG[^tabletop] modules? Surely there is at least some crossover even
+if TRPGs have to account for player agency in their storytelling. Well
+let's find out together by analysing some of my favourites through
+this lens.
 
-The first section of the book is about the first panel and page. Notoriously harsh manga editors would often judge new work by its first impression. If it doesn't impress immediately it doesn't leave the envelope. Araki's observation here is to be very clear on what that first page says about the manga and what it leaves unsaid.
+The first section of the book is about the first panel and page.
+Notoriously harsh manga editors would often judge new work by its first
+impression. If it doesn't impress immediately it doesn't leave the
+envelope. Araki's observation here is to be very clear on what that
+first page says about the manga and what it leaves unsaid.
 
-For adventure modules this probably best applies to the cover, and the first spread of the module. In this medium that is the first impression. Much of extensive collection of PDFs[^pdfs] were bought on the promise of the cover and the first spread is often what sells me on running it. All the most important parts of an adventure are in that first spread; like the hooks that pull your players into the action in the first place.
+For adventure modules this probably best applies to the cover, and the
+first spread of the module. In this medium that is the first impression.
+Much of extensive collection of PDFs[^pdfs] were bought on the promise
+of the cover and the first spread is often what sells me on running it.
+All the most important parts of an adventure are in that first spread;
+like the hooks that pull your players into the action in the first place.
 
 - Hirohiko Araki = favourite mangaka
 - Gave all his manga secrets

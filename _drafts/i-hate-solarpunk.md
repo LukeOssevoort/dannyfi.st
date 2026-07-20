@@ -1,6 +1,13 @@
 # I Hate Solarpunk
 
-Whenever someone talks about the grimness of cyberpunk getting to them and that they just want a near future setting that is hopeful, solarpunk is the suggested antidote. A cutesy cottage-core future with solar-powered hover bikes and wind-powered robots. The aesthetic is relatively inoffensive, though decidedly a little soft for my tastes, but the sci part of the fi is offensive to me. As far as I am concerned it perpetuates an understanding of electrical grids and renewables that is intensly harmful. I understand that this opinion is going to make me look like a crazy person, and if you like solarpunk you are allowed to do so. All I ask is that you give this a read and take a look at things from my perspective.
+Whenever someone talks about the grimness of cyberpunk getting to them
+and that they just want a near future setting that is hopeful, solarpunk
+is the suggested antidote. A cutesy cottage-core future with solar-powered
+hover bikes and wind-powered robots. The aesthetic is relatively inoffensive,
+though decidedly a little soft for my tastes, but the sci part of the
+fi is offensive to me. As far as I am concerned it perpetuates an
+understanding of electrical grids and renewables that is intensly harmful.
+I understand that this opinion is going to make me look like a crazy person, and if you like solarpunk you are allowed to do so. All I ask is that you give this a read and take a look at things from my perspective.
 
 Also to head some bullshit off at the pass I want to establish some facts
 
