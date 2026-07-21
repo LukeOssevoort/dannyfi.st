@@ -68,7 +68,7 @@ head. What now?
 Every woman on the crowdfunding page is a small waisted, big chested
 white woman. Now I like a sexy lady as much as the next guy but do we
 really need a cookie cutter army of them. I'll give you one Red Sonja
-parody but then you have to shake it up. In a world so violent as to
+parody given the subject matter but then you have to shake it up. In a world so violent as to
 make a character like Deathbringer there is no way *all* the women would
 be this comfortable being next to nude. Not only that by they are all
 the same kind of attractive woman with nothing for the ass man. Frank
@@ -81,5 +81,20 @@ the exact guys who are into the chainmail bikini. This means modelling
 your male underwear model after someone women and gays find attractive.
 It's the basic "let's see how you like it" play where the normal people
 in the audience get to laugh at everyone who takes it too seriously.
+
+## Lady Deathbringer
+
+The gender-swap of our posterboy deserves her own section, because she
+is the most obvious symptom of this games problem with women. She is
+supposed to be Deathbringer's female counter part but instead she is
+another bikini girl but just a little more muscular and wearing a
+helmet. It sucks. On it's most basic level all they needed to do was
+give Deathbringer more female proportions, keeping her just as
+cartoonishly muscular and just as armoured, and the job would be done.
+
+If you want to have more fun with it you could do a Ms Pacman thing.
+Make Lady Deathbringer identical to Deathbringer just with a little
+pink bow and maybe some eyelashes on the helmet. It's ubsurd era
+appropriate parody.
 
 [^mk]: the 2 posts
