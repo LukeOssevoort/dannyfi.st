@@ -25,6 +25,61 @@ Now of course there were other issues (outlined by Magnolia Keep[^mk])
 but they stem from this root. Every bad, tone deaf choice made comes
 from a fundamental lack in being able to commit to the bit. It shows
 in the highly rendered 5e style art, the ads showing characters in a
-metal band and the confused comparisons to Dark Sun.
+metal band and the confused comparisons to Dark Sun. To me it looks
+like Professor DM started out with an unclear vision and that vision was
+carried out by Roll for Combat's large creative team.
+
+The core idea is, I think, a good one. A satirical take on 80s grimdark
+chainmail bikini fantasy is at least somewhat new ground in the OSR.
+All they needed to do was have a writer help Prof DM create a consistent
+comedic voice and a lot of the issues would have been avoided. So let's
+try and do that. Let's make some big picture ideas of what this could
+have been.
+
+## The Deathbringer Himself
+
+It's clear that the Deathbringer is intended as a comedic character.
+Ignoring that he may have been knicked from Games Workshop, he's an
+overblown version of the violent barbarian hero. He lives for combat
+and taking treasure from the newly deceased. The look here also contrasts
+heavily with the vitalism of Conan the prototypical barbarian. This
+works to depict him as the dumb brute of bad 80s fantasy rather than
+the keen and agile Conan. Alone this is functional parody but he is
+also this games poster-boy so we need to do more.
+
+The simplest and most effective use of a character like this is to use
+him like Judge Dredd. Early Judge Dredd comics engaged in this nice bit
+of double dipping where the Judges and their violent response to crime
+functioned as satire of US police officers, and the criminals they
+killed functioned as satire of the negative aspects of US culture. It's
+fun, effective and criminally easy to pull off in small doses, like say
+when you are advertising a TTRPG crowdfunding campaign.
+
+You want to sell your game on how it cuts through the cruft of other
+systems and settings? Have Deathbringer literally cut through them.
+The ads for this game would be 1000x better if it was just Deathbringer
+dismembering an NPC in the middle of their long backstory or another
+hero explain their class features. Oh, this town has a long and storied
+history? Well Deathbringer just tossed the history book at your mayor's
+head. What now?
+
+## Chainmail Bikinis
+
+Every woman on the crowdfunding page is a small waisted, big chested
+white woman. Now I like a sexy lady as much as the next guy but do we
+really need a cookie cutter army of them. I'll give you one Red Sonja
+parody but then you have to shake it up. In a world so violent as to
+make a character like Deathbringer there is no way *all* the women would
+be this comfortable being next to nude. Not only that by they are all
+the same kind of attractive woman with nothing for the ass man. Frank
+Frazetta would be ashamed.
+
+The most obvious solution (other than including some less sexualised
+and more diverse women) is to put a dude in chainmail underwear too.
+Of course for this to be effective satire it needs to risk upsetting
+the exact guys who are into the chainmail bikini. This means modelling
+your male underwear model after someone women and gays find attractive.
+It's the basic "let's see how you like it" play where the normal people
+in the audience get to laugh at everyone who takes it too seriously.
 
 [^mk]: the 2 posts
