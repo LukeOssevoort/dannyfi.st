@@ -34,7 +34,7 @@ first page says about the manga and what it leaves unsaid.
 
 For adventure modules this probably best applies to the cover, and the
 first spread of the module. In this medium that is the first impression.
-Much of extensive collection of PDFs[^pdfs] were bought on the promise
+Much of mt extensive collection of PDFs[^pdfs] were bought on the promise
 of the cover and the first spread is often what sells me on running it.
 All the most important parts of an adventure are in that first spread;
 like the hooks that pull your players into the action in the first place.
@@ -76,7 +76,7 @@ _Art by the very excellent [Skullboy][skullboy]_
 
 [^mangaka]: The proper term for a manga author, can refer to artist or
 writers though typically it is both.
-[^tabletop]: Tabletop is one word so this is more correct than TTRPG
+[^tabletop]: Tabletop is one word so this (to me) is more correct than TTRPG
 and fits all the other types of RPG like CRPG and JRPG
 [^pdfs]: Shipping to Australia sucks so much I have considered making
 a YouTube channel just reviewing how well modules print at home.
