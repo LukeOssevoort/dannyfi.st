@@ -1,21 +1,28 @@
 # Making My Own VTT
 
-The way I see it indie RPGs/the OSR need their own easily modifiable
-universally adopted VTT. Something everyone can use and tailor to
-their games, without the work and licensing required of something more
-complicated like Foundry. As much as I love it Foundry is quite bloated.
-The ideal is something that is default simple, but can be made more
-complicated.
+There is no VTT that I feel good about using. Like it or not every VTT
+is designed as a platform not a piece of software, even the excellent
+Foundry. The only exception being Maptool which is dated and Java based,
+*yuck*. What I want is a VTT that is free and open-source, and adheres
+to a Unix-esque philosophy. What the former means is that the software
+itself is single purpose and easy to understand, with the ability to
+make it more complicated via plugins.
+
+Take for example the piece of software I am typing this in, NeoVIM. By
+default it is a basic keyboard driven text editor, designed to have
+the user never need to touch the mouse. But the advantage of NeoVIM is
+you can make it more complicated with plugins. From basic plugins like
+themes to full blown music players. The ammount it does past its most
+basic function is up to you.
 
 ## Minimum Viable Product
 
-This is the basic stuff I want out of a VTT. It is a little more than
-some minimalist offerings like Owlbear Rodeo, but I think handling character
-sheets in a shared environment helps more than it hinders (especially
-if handled right). It is just a small piece of mental load that doesn't
-need to be placed on anyone at the table. The goal is to allow basic
-systems to be implemented by the average user (ie character sheets and
-basic dice roll automation) with no plugins or modifications. 
+The program by default should basically only handle putting tokens on
+maps, allowing multiple users to network with each other and basic
+permissions (ie separating GM and player). Everything else should be
+a plugin. The features in this section would be core plugins, on by
+default but able to be turned off if not needed, both globally and per
+game.
 
 ### Maps
 
@@ -26,13 +33,15 @@ Instead of maps just being a `png` or `jpg` they could also include a small
 [YAML][yaml] file specifying the grid type, size and offset so that
 everything is aligned on import. Package them in their own zip file with
 a special file extension (like `cbz` for comics) and you have something
-easily sharable for creators and usable for players.
+easily sharable for creators and that removes a big frustration for
+GMs.
 
 Map visibility should be handled by a simple, manually controlled fog
 of war system. Automatic vision looks flashy but in practice it breaks
 constantly and behaves unexpectedly. It ruins reveals, dungeon crawling
 and flow at the table. It is much easier if the GM can just pick what
-tiles are visible.
+tiles are visible. Just let the GM drag a square to decide what is
+visible. If GMs want a lighting system they'll need to make a plugin.
 
 ### Character Sheets
 
@@ -46,7 +55,7 @@ easy too.
 
 ### Dice rolling
 
-Dice rolling syntax is already pretty will defined in other apps. So I
+Dice rolling syntax is already pretty well defined in other apps. So I
 think the rub here is in the specifics. Variables like stats should be
 easy to reference, defaulting to pulling from whoever made the roll.
 So instead of referring to `self.mods.dex` it would be just `dex` making
@@ -56,6 +65,7 @@ it easier for most users to make a simple macro for common rolls.
 
 With the list above, you would have a pretty solid VTT that would do
 just about everything you truly *need*, so now let's talk about wants.
+Extra little plugins that are disabled by default.
 
 ### Layers
 
@@ -89,7 +99,7 @@ accessibility can style their client to suit their needs.
 ### Visual Scripting
 
 Not everyone knows how to code, and lack the sufficient blend of motivation
-and probable autism to do so. These people still need macros, so what
+and probable autism to learn to do so. These people still need macros, so what
 are they to do when the macro they need does not already exist. This
 is where visual scripting comes in. Everyone understands a flow chart.
 So instead of typing, users can assemble their macros out of predefined
@@ -137,14 +147,5 @@ to a handful of purpose built things is nice. I want it to extend to
 the digital gaming table as much as possible and that means getting
 out of the web browser. It is way too easy to get distracted when you
 are basically playing next to the open sewer of the internet.
-
-### Plugins
-
-I think the ideal of a tool like this is having a low barrier to entry
-but the ability to make things more complicated as needed. *Lancer*
-players would likely love some rules automation, but many systems can
-do without for example. Now this feature would basically make this VTT
-Foundry but with a simpler starting point (and FOSS). Which I guess is
-the point I was making the entire time.
 
 [yaml]: https://yaml.org/about/
