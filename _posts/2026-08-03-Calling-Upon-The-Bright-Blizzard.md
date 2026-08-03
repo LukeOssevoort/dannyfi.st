@@ -39,7 +39,7 @@ off.
 ## Pick Art Early
 
 Last time I learned to do layout way earlier[^fs-jam], this time I learned the same thing about art. Early into
-the jam as I was ideating I looked through [Mark Felp's public domain pack][mfpd] I found the art I used for
+the jam as I was ideating I looked through [Mark Felp's public domain packs][mfpd] and I found the art I used for
 Taipan. Until that point I wasn't going to have an atomic robot in the forestcrawl. That find not only changed
 my writing but the visuals of the end product. In future unless I decide to throw around some money for an
 artist, get good enough to be my own artist or fulfil my dream of having a pet artist for all my projects I need
@@ -63,8 +63,7 @@ sado-masocism not seen since Dark Sun. Wait Dark Sun is back again nevermind. Al
 Google, how do I buy an Alexa and how do they work? Siri, how do I end a comedy bit? Before or after it stops
 being funny?
 
-[^fs-jam]: Read [my post about Frontier Scum's Summer Jam](https://dannyfi.st/posts/Mud-Men-of-Moresby/) to
-learn about that dear reader.
+[^fs-jam]: Read [my post about Frontier Scum's Summer Jam](https://dannyfi.st/posts/Mud-Men-of-Moresby/) to learn about that dear reader.
 [^df]: Yes, Danny Fist is not my real name; shocking. It's not even Danny.
 [^jams]: The jams in question are Liminal Horror's Summer Jam and Minimalism Jam. I might add a third if I enjoy
 it too much.
