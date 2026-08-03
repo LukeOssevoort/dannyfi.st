@@ -65,7 +65,6 @@ being funny?
 
 [^fs-jam]: Read [my post about Frontier Scum's Summer Jam](https://dannyfi.st/posts/Mud-Men-of-Moresby/) to learn about that dear reader.
 [^df]: Yes, Danny Fist is not my real name; shocking. It's not even Danny.
-[^jams]: The jams in question are Liminal Horror's Summer Jam and Minimalism Jam. I might add a third if I enjoy
-it too much.
+[^jams]: The jams in question are Liminal Horror's Summer Jam and Minimalism Jam. I might add a third if I enjoy it too much.
 
 [mfpd]: https://itch.io/c/7741613/public-domain-illustrations-packs
