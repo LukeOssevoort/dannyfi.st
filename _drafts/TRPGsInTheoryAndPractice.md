@@ -23,7 +23,7 @@ In the intro Araki muses that his advice could apply to almost any
 endeavour, particularly creative endeavours. So why not apply this to
 TRPG[^tabletop] modules? Surely there is at least some crossover even
 if TRPGs have to account for player agency in their storytelling. Well
-let's find out together by analysing some of my favourites through
+let's find out together by analysing one of my favourites through
 this lens.
 
 The first section of the book is about the first panel and page.
@@ -34,23 +34,26 @@ first page says about the manga and what it leaves unsaid.
 
 For adventure modules this probably best applies to the cover, and the
 first spread of the module. In this medium that is the first impression.
-Much of mt extensive collection of PDFs[^pdfs] were bought on the promise
+Much of my extensive collection of PDFs[^pdfs] were bought on the promise
 of the cover and the first spread is often what sells me on running it.
 All the most important parts of an adventure are in that first spread;
 like the hooks that pull your players into the action in the first place.
-
-- Hirohiko Araki = favourite mangaka
-- Gave all his manga secrets
-- Should apply to all storytelling
-- Modules for example
-- Let's analyse it
+So let's take a look at...
 
 ## The Sinister Secret of Peacock Point
 
 ![The intro spread for The Sinister Secret of Peacock Point](PeacockPoint.png)
 _Art by the very excellent [Skullboy][skullboy]_
 
+> Yes I know this is technically not its own book but the first adventure
+in an anthology. It still basically has a cover and very much works on
+its own.
+
 ### Cover + Title Page
+
+The first thing that stands out is the colouring; monochromatic purple.
+This places the adventure firmly in the anthology, as all the other
+adventures are themed after different colours.
 
 - Monochrome art
 - Unusual armless monster - the Skitterlord
@@ -68,18 +71,10 @@ _Art by the very excellent [Skullboy][skullboy]_
 - Peacock for sense of place
 - Other adventures in Wyvern Songs do not have the same first pages
 
-## Down Bad
-
-## Lorne Song of the Bachelor
-
 ## Conclusion
 
-[^mangaka]: The proper term for a manga author, can refer to artist or
-writers though typically it is both.
-[^tabletop]: Tabletop is one word so this (to me) is more correct than TTRPG
-and fits all the other types of RPG like CRPG and JRPG
-[^pdfs]: Shipping to Australia sucks so much I have considered making
-a YouTube channel just reviewing how well modules print at home.
-Probably a very limited audience for that one.
+[^mangaka]: The proper term for a manga author, can refer to artist or writers though typically it is both.
+[^tabletop]: Tabletop is one word so this (to me) is more correct than TTRPG and fits all the other types of RPG like CRPG and JRPG
+[^pdfs]: Shipping to Australia sucks so much I have considered making a YouTube channel just reviewing how well modules print at home. Probably a very limited audience for that one.
 
 [skullboy]: https://betterlegends.com/

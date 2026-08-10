@@ -4,7 +4,7 @@ There is no VTT that I feel good about using. Like it or not every VTT
 is designed as a platform not a piece of software, even the excellent
 Foundry. The only exception being Maptool which is dated and Java based,
 *yuck*. What I want is a VTT that is free and open-source, and adheres
-to a Unix-esque philosophy. What the former means is that the software
+to a Unix-esque philosophy. What the latter means is that the software
 itself is single purpose and easy to understand, with the ability to
 make it more complicated via plugins.
 
@@ -12,7 +12,7 @@ Take for example the piece of software I am typing this in, NeoVIM. By
 default it is a basic keyboard driven text editor, designed to have
 the user never need to touch the mouse. But the advantage of NeoVIM is
 you can make it more complicated with plugins. From basic plugins like
-themes to full blown music players. The ammount it does past its most
+themes to full blown music players. The amount it does past its most
 basic function is up to you.
 
 ## Minimum Viable Product
