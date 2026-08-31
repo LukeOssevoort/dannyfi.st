@@ -53,7 +53,8 @@ its own.
 
 The first thing that stands out is the colouring; monochromatic purple.
 This places the adventure firmly in the anthology, as all the other
-adventures are themed after different colours.
+adventures are themed after different colours. The theming is followed
+in the text as the stone walls of the dungeon are purple.
 
 - Monochrome art
 - Unusual armless monster - the Skitterlord
