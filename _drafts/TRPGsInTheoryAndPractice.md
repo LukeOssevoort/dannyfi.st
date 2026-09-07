@@ -49,12 +49,17 @@ _Art by the very excellent [Skullboy][skullboy]_
 in an anthology. It still basically has a cover and very much works on
 its own.
 
-### Cover + Title Page
+### Title Spread
 
 The first thing that stands out is the colouring; monochromatic purple.
 This places the adventure firmly in the anthology, as all the other
 adventures are themed after different colours. The theming is followed
-in the text as the stone walls of the dungeon are purple.
+in the text as the stone walls of the dungeon are purple. It really invokes
+the sinister yet whimsical vibe of the whole adventure; especially when
+applied to Skullboy's bubbly cartoony art.
+
+Well I say bubbly but there is also a giant bug-spewing blindfolded mummy
+taking centre stage. It 
 
 - Monochrome art
 - Unusual armless monster - the Skitterlord
@@ -62,7 +67,7 @@ in the text as the stone walls of the dungeon are purple.
 - Tagline mix of amusing and informative
 - Simple bold font for title emphasising the quintessential dungeon crawl theme
 
-### First Pages
+### Opening Spread
 
 - Map continues the purple theme
 - Intro lays down that this dungeon requires thought to survive
